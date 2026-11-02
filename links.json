@@ -1,5 +1,6 @@
 {
   "official": {
+        "tv:88046": "https://t.me/+w29AVe_lX0EzMzcy",
         "tv:97617": "https://t.me/+NO8ucU8qpsFmMjUy",
     "tv:83121": "https://t.me/+v-GYtRejKuswNjhi",
     "tv:76757": "https://t.me/+J2cSSGPGH2VlNjhi",
@@ -20,5 +21,12 @@
     },
   "telebox": {
     "tv:97617": "https://lbx.to/s/gqRL5Hy?dirId=3807792"
+  
+  },
+  "seasons": {
+    "tv:88046": [
+      "https://t.me/+w29AVe_lX0EzMzcy",
+      "https://t.me/+w29AVe_lX0EzMzcy"
+    ]
   }
 }
