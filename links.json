@@ -1,5 +1,12 @@
 {
   "official": {
+        "tv:97617": "https://t.me/+NO8ucU8qpsFmMjUy",
+    "tv:83121": "https://t.me/+v-GYtRejKuswNjhi",
+    "tv:76757": "https://t.me/+J2cSSGPGH2VlNjhi",
+    "tv:61663": "https://t.me/+ym7bnRqJRek5MmU6",
+    "tv:30981": "https://t.me/+-JaoLdsYeYhkMjRi",
+    "tv:16830": "https://t.me/+TyOTVYepN11iNDJi",
+    "tv:61752": "https://t.me/+TyOTVYepN11iNDJi",
         "tv:50712": "https://t.me/+vrQBYt5htw81ZWE6",
     "tv:62602": "https://t.me/+HX37I1-2-mM4M2Yy",
     "tv:45952": "https://t.me/+zsTvlydJDNNkOWJi",
@@ -10,5 +17,8 @@
     "tv:61461": "https://t.me/+RwTkO1ktnlE4ZmVi",
     "tv:76121": "https://t.me/+5qxzwaUVR75hMzIy",
     "tv:38464": "https://t.me/+9QpsCLua6W85YzQy"
+    },
+  "telebox": {
+    "tv:97617": "https://lbx.to/s/gqRL5Hy?dirId=3807792"
   }
 }
