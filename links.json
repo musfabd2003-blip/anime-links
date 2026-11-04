@@ -1,5 +1,6 @@
 {
   "official": {
+    "tv:30984": "https://t.me/+LwKlIVKQgeA5NjEy",
     "movie:15575": "https://t.me/S0Fi_movie/179",
     "movie:17101": "https://t.me/S0Fi_movie/183",
     "movie:17165": "https://t.me/S0Fi_movie/186",
@@ -58,6 +59,13 @@
   "https://t.me/+HMD2yUQ9V4IIOGZi",
   "https://t.me/+HMD2yUQ9V4IIOGZi"
 ],
+    "tv:30984": [
+      { "t": "الموسم الأول", "u": "https://t.me/+LwKlIVKQgeA5NjEy" },
+      { "t": "الموسم الثاني - الجزء الأول (حرب الألف سنة الدموية)", "u": "https://t.me/bleachhhhh1/442" },
+      { "t": "الموسم الثاني - الجزء الثاني", "u": "https://t.me/bleachhhhh1/501" },
+      { "t": "الموسم الثاني - الجزء الثالث (Soukoku-tan)", "u": "https://lbx.to/s/mutw0Hd?dirId=50947765" },
+      { "t": "الموسم الثاني - الجزء الرابع (Kashin-tan)", "u": "https://bxlnk.com/s/ymZxsMl?dirId=87141809" }
+    ],
     "tv:12609": [
       "https://t.me/+2UbflwiP3ixmNTYy"
     ],
