@@ -1,5 +1,8 @@
 {
   "official": {
+"tv:84669": "https://t.me/S0Fi_9/144",
+"movie:820067": "https://t.me/S0Fi_9/144",
+"movie:1153706": "https://t.me/S0Fi_9/144",
 "tv:110070": "https://t.me/S0Fi_9/142",
 "tv:228663": "https://t.me/S0Fi_9/142",
     "tv:67043": "https://t.me/S0Fi_9/139",
@@ -51,6 +54,7 @@
     "tv:38464": "https://t.me/+9QpsCLua6W85YzQy"
     },
   "telebox": {
+"movie:1153706": "https://lbx.to/s/KblouJp?dirId=24283355",
 "tv:37854": "https://bxlnk.com/s/7I6CVTe?dirId=2353813",
     "tv:97617": "https://lbx.to/s/gqRL5Hy?dirId=3807792"
   },
@@ -76,6 +80,13 @@
     ],
 "tv:37854": [
   "https://bxlnk.com/s/7I6CVTe?dirId=2353813"
+],
+"tv:84669": [
+  "https://t.me/+NJVCkQZNd1BjN2Yy",
+  "https://t.me/+NJVCkQZNd1BjN2Yy"
+],
+"movie:820067": [
+  "https://t.me/+NJVCkQZNd1BjN2Yy"
 ],
 "tv:110070": [
   "https://t.me/+LGquyG75Sh8wOTQ6"
