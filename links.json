@@ -7,6 +7,8 @@
 "tv:45845": "https://t.me/S0Fi_9/166",
   "tv:83054": "https://t.me/S0Fi_9/148",
 "tv:300054": "https://t.me/S0Fi_9/1193",
+"tv:73833": "https://t.me/S0Fi_9/183",
+"tv:67800": "https://t.me/S0Fi_9/183",
 "tv:37858": "https://t.me/S0Fi_9/156",
 "tv:82591": "https://t.me/S0Fi_9/145",
 "tv:61460": "https://t.me/S0Fi_9/160",
@@ -32,6 +34,7 @@
     "movie:15575": "https://t.me/S0Fi_movie/179",
     "movie:17101": "https://t.me/S0Fi_movie/183",
     "movie:17165": "https://t.me/S0Fi_movie/186",
+"tv:107001": "https://t.me/S0Fi_9/184",
     "movie:73245": "https://t.me/S0Fi_movie/189",
     "tv:46261": "https://t.me/S0Fi_9/137",
     "movie:135531": "https://t.me/+_Fi1tl8tBZgyNDZi",
@@ -63,6 +66,20 @@
 "movie:1128973": "https://t.me/S0Fi_9/177",
 "movie:338379": "https://t.me/S0Fi_9/177",
 "movie:338380": "https://t.me/S0Fi_9/177",
+"tv:1063": "https://t.me/S0Fi_9/185",
+"tv:45501": "https://t.me/S0Fi_9/186",
+"movie:214553": "https://t.me/S0Fi_9/186",
+"movie:460399": "https://t.me/S0Fi_9/186",
+"tv:66941": "https://t.me/S0Fi_9/188",
+"tv:111819": "https://t.me/S0Fi_9/189",
+"tv:34141": "https://t.me/S0Fi_9/190",
+"tv:67145": "https://t.me/S0Fi_9/190",
+"tv:63663": "https://t.me/S0Fi_9/192",
+"tv:80564": "https://t.me/S0Fi_9/193",
+"tv:103786": "https://t.me/S0Fi_9/194",
+"tv:80560": "https://t.me/S0Fi_9/195",
+"tv:66958": "https://t.me/S0Fi_9/196",
+"movie:419094": "https://t.me/S0Fi_9/196",
 "tv:61695": "https://t.me/S0Fi_9/179",
 "movie:311056": "https://t.me/S0Fi_9/179",
 "tv:60834": "https://t.me/S0Fi_9/182",
@@ -97,6 +114,8 @@
     "tv:38464": "https://t.me/+9QpsCLua6W85YzQy"
     },
   "telebox": {
+"tv:73833": "https://lbx.to/s/MXwkVBb?dirId=4034409",
+"tv:67800": "https://lbx.to/s/MXwkVBb?dirId=4034409",
 "movie:1153706": "https://lbx.to/s/KblouJp?dirId=24283355",
 "tv:37854": "https://bxlnk.com/s/7I6CVTe?dirId=2353813",
     "tv:97617": "https://lbx.to/s/gqRL5Hy?dirId=3807792"
@@ -116,6 +135,16 @@
   "https://t.me/+HMD2yUQ9V4IIOGZi",
   "https://t.me/+HMD2yUQ9V4IIOGZi"
 ],
+    "tv:73833": [
+  "https://t.me/+r8OfqkZ103o3NWEy",
+  "https://t.me/+r8OfqkZ103o3NWEy",
+  {"url": "https://lbx.to/s/Y22ovsU?dirId=26456379", "t": "الموسم الثاني الجزء الثاني"}
+],
+"tv:67800": [
+  "https://t.me/+r8OfqkZ103o3NWEy",
+  "https://t.me/+r8OfqkZ103o3NWEy",
+  {"url": "https://lbx.to/s/Y22ovsU?dirId=26456379", "t": "الموسم الثاني الجزء الثاني"}
+],
 "tv:71024": [
   "https://t.me/+14hBQGoMNDhkMDZi",
   "https://t.me/+14hBQGoMNDhkMDZi",
@@ -130,11 +159,31 @@
   "https://t.me/+HvR57t1G8hFlZTMy",
   "https://t.me/+HvR57t1G8hFlZTMy"
 ],
+"tv:34141": ["https://t.me/+QGln5G_kww9jZDVi"],
+"tv:67145": ["https://t.me/+QGln5G_kww9jZDVi"],
+"tv:63663": [
+  "https://t.me/+syCRnLHYe_A3YTcy",
+  "https://t.me/+syCRnLHYe_A3YTcy"
+],
+"tv:80564": ["https://t.me/+KyjQ8wsdkKdmYjY6"],
+"tv:103786": ["https://t.me/+NocZisBRSHRmY2Uy"],
+"tv:80560": ["https://t.me/+jCzywdEL2nAxOGMy"],
+"tv:66958": ["https://t.me/+oqCYJ3oHbdA3YzMy"],
+"movie:419094": [{"url": "https://t.me/+oqCYJ3oHbdA3YzMy", "t": "مشاهدة الفيلم"}],
 "tv:123548": ["https://lbx.to/s/I8MExIR?dirId=26019733"],
 "tv:62741": [
   "https://t.me/+0mPY6ii22KtmYjcy",
   "https://t.me/+0mPY6ii22KtmYjcy"
 ],
+"tv:1063": ["https://t.me/+96hgj1ZDOZozODIy"],
+"tv:45501": [
+  "https://t.me/+7ntmygnnMMlhMjEy",
+  "https://t.me/+7ntmygnnMMlhMjEy"
+],
+"movie:214553": [{"url": "https://t.me/+7ntmygnnMMlhMjEy", "t": "مشاهدة الفيلم"}],
+"movie:460399": [{"url": "https://t.me/+7ntmygnnMMlhMjEy", "t": "مشاهدة الفيلم"}],
+"tv:66941": ["https://t.me/+O2r7rqhwo801NDE6"],
+"tv:111819": ["https://t.me/+j3sWP-hu_TdhODcy"],
 "tv:42573": ["https://t.me/+i8MC-OLIhtwwOGFi"],
 "movie:1128973": [{"url": "https://t.me/+i8MC-OLIhtwwOGFi", "t": "مشاهدة الفيلم"}],
 "movie:338379": [{"url": "https://t.me/+i8MC-OLIhtwwOGFi", "t": "مشاهدة الفيلم"}],
@@ -149,6 +198,7 @@
       { "t": "الموسم الثاني - الجزء الثالث (Soukoku-tan)", "u": "https://lbx.to/s/mutw0Hd?dirId=50947765" },
       { "t": "الموسم الثاني - الجزء الرابع (Kashin-tan)", "u": "https://bxlnk.com/s/ymZxsMl?dirId=87141809" }
     ],
+"tv:107001": ["https://t.me/+wEHqeyzldjdmODEy"],
 "tv:60834": ["https://t.me/+s6tij4d7rus4OTBi"],
 "tv:100281": [
   "https://t.me/+8yCn1Yu5W0AyMTU6",
