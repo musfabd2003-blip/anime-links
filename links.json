@@ -352,7 +352,8 @@
     "tv:42671": "https://t.me/+kxez99SpztNmM2My",
     "tv:61461": "https://t.me/+RwTkO1ktnlE4ZmVi",
     "tv:76121": "https://t.me/+5qxzwaUVR75hMzIy",
-    "tv:38464": "https://t.me/+9QpsCLua6W85YzQy"
+    "tv:38464": "https://t.me/+9QpsCLua6W85YzQy",
+    "tv:117465": "https://t.me/S0Fi_9/720"
   },
   "telebox": {
     "tv:204519": "https://lbx.to/s/KywYiWD?dirId=3515236",
@@ -448,7 +449,8 @@
     "tv:67800": "https://lbx.to/s/MXwkVBb?dirId=4034409",
     "movie:1153706": "https://lbx.to/s/KblouJp?dirId=24283355",
     "tv:37854": "https://bxlnk.com/s/7I6CVTe?dirId=2353813",
-    "tv:97617": "https://lbx.to/s/gqRL5Hy?dirId=3807792"
+    "tv:97617": "https://lbx.to/s/gqRL5Hy?dirId=3807792",
+    "tv:117465": "https://lbx.to/s/pluyBZI?dirId=10291211"
   },
   "seasons": {
     "tv:88046": ["https://t.me/+w29AVe_lX0EzMzcy","https://t.me/+w29AVe_lX0EzMzcy"],
@@ -740,6 +742,7 @@
     "tv:65648": ["https://t.me/+r5hIjsNasEQ3NDBi"],
     "tv:65676": ["https://t.me/+AcX3YmohMUE0NzYy","https://t.me/+AcX3YmohMUE0NzYy","https://t.me/+AcX3YmohMUE0NzYy"],
     "tv:86034": ["https://t.me/+ySKRt-KRrg02Nzdi","https://t.me/+ySKRt-KRrg02Nzdi","https://bxlnk.com/s/PucZkSE?dirId=90196577"],
-    "tv:65844": ["https://t.me/+kcRp_1AFBLxlZGIy","https://t.me/+kcRp_1AFBLxlZGIy","https://lbx.to/s/UjhiyNZ?dirId=41215493"]
+    "tv:65844": ["https://t.me/+kcRp_1AFBLxlZGIy","https://t.me/+kcRp_1AFBLxlZGIy","https://lbx.to/s/UjhiyNZ?dirId=41215493"],
+    "tv:117465": ["https://t.me/+hQITVK4QHHliYWRi"]
   }
 }
