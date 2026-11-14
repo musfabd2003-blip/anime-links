@@ -1,1 +1,15 @@
-{"official":{},"telebox":{},"seasons":{},"overviews":{},"added":{}}
+{
+  "official": {},
+  "telebox": {
+    "movie:1377900": "https://bxlnk.com/s/jNIGLkX?dirId=88334148"
+  },
+  "seasons": {
+    "movie:1377900": ["https://bxlnk.com/s/jNIGLkX?dirId=88334148"]
+  },
+  "overviews": {
+    "movie:1377900": "​يجب على تشارلز نايت، وهو صائد جواسيس سابق سيئ السمعة، أن يعمل مع ابنته المنفصلة عنه لتجنب حمام دم من قبل الأمن الداخلي والنجاة من اقتحام مرعب لمنزله"
+  },
+  "added": {
+    "movie:1377900": "2026-11-14T22:35:01.770Z"
+  }
+}
