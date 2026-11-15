@@ -4,7 +4,8 @@
     "movie:1377900": "https://bxlnk.com/s/jNIGLkX?dirId=88334148"
   },
   "seasons": {
-    "movie:1377900": ["https://bxlnk.com/s/jNIGLkX?dirId=88334148"]
+    "movie:1377900": ["https://bxlnk.com/s/jNIGLkX?dirId=88334148"],
+    "tv:1274": [{"eps":[{"url":"https://t.me/ShashatiBot?start=tv_1274_1_1","d":"2026-11-15T03:34:30.527Z"}]}]
   },
   "overviews": {
     "movie:1377900": "​يجب على تشارلز نايت، وهو صائد جواسيس سابق سيئ السمعة، أن يعمل مع ابنته المنفصلة عنه لتجنب حمام دم من قبل الأمن الداخلي والنجاة من اقتحام مرعب لمنزله"
@@ -25,7 +26,8 @@
     "movie:20235": "2026-11-15T02:29:52.506Z",
     "movie:99861": "2026-11-15T02:34:19.968Z",
     "movie:299536": "2026-11-15T02:34:23.156Z",
-    "movie:299534": "2026-11-15T02:34:26.802Z"
+    "movie:299534": "2026-11-15T02:34:26.802Z",
+    "tv:1274": "2026-11-15T03:34:30.527Z"
   },
   "play": {
     "movie:414906": "ShashatiBot",
@@ -42,6 +44,7 @@
     "movie:20235": "ShashatiBot",
     "movie:99861": "ShashatiBot",
     "movie:299536": "ShashatiBot",
-    "movie:299534": "ShashatiBot"
+    "movie:299534": "ShashatiBot",
+    "tv:1274": "ShashatiBot"
   }
 }
