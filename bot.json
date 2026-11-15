@@ -8,5 +8,12 @@
     "photo": "AgACAgIAAxkBAAMFavkFnuiGJydEdFEeEjfGpujAzOUAAsgdaxtVptFLpZgUZZ7MDlEBAAMCAAN3AAM9BA",
     "caption": "أهلاً بك في شاشتي 🎬 أفلام ومسلسلات بمكان واحد. اضغط الزر وافتح الموقع 👇",
     "entities": []
+  },
+  "welcome3_play": {
+    "movie:414906": {
+      "type": "video",
+      "id": "BAACAgQAAxkBAAMJavkJWyd_q-jn-NADi0ldXuXkS0YAAjcSAALFRoFQa3UDVn61VKk9BA",
+      "cap": "🎬 ذا باتمان (2022)"
+    }
   }
 }
