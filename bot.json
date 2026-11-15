@@ -345,5 +345,12 @@
     "photo": "AgACAgEAAxkBAAMMavn0biFFxz-LqHR5BCQHVx1KSjoAAhINaxv1p9BHZb-I88U7boIBAAMCAAN3AAM9BA",
     "caption": "أهلاً بك في شاشتي 🎬 أفلام ومسلسلات بمكان واحد. اضغط الزر وافتح الموقع 👇",
     "entities": []
+  },
+  "welcome4_play": {
+    "movie:2034": {
+      "type": "video",
+      "id": "BAACAgEAAxkBAAMSavn25lKFl666tbbHGzmNuBpFBWEAAqIDAAItYShHhWiOMFk2FLg9BA",
+      "cap": "🎬 يوم التدريب (2001)"
+    }
   }
 }
