@@ -340,5 +340,10 @@
       "id": "BAACAgQAAxkBAAOvavmf1IRfW0Evqbhx6_TY0jmJhyYAAiUTAALj5aBScL21xQIgfBc9BA",
       "cap": "🎬 على عمق ستة أقدام · الموسم 4 · الحلقة 12"
     }
+  },
+  "welcome4": {
+    "photo": "AgACAgEAAxkBAAMMavn0biFFxz-LqHR5BCQHVx1KSjoAAhINaxv1p9BHZb-I88U7boIBAAMCAAN3AAM9BA",
+    "caption": "أهلاً بك في شاشتي 🎬 أفلام ومسلسلات بمكان واحد. اضغط الزر وافتح الموقع 👇",
+    "entities": []
   }
 }
