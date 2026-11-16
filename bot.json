@@ -1856,6 +1856,11 @@
       "type": "video",
       "id": "BAACAgEAAxkBAAIDq2r7FAQ9EC-utiQ1M7Uc0179ajaTAALbAQACKq6ARlSzCf5YqTwjPQQ",
       "cap": "🎬 Rambo: First Blood Part II (1985)"
+    },
+    "movie:1370": {
+      "type": "video",
+      "id": "BAACAgEAAxkBAAIDrGr7FASBVVM6MSI35uhFbKzcmJ-qAALgAQACKq6ARm7ihILqKuiEPQQ",
+      "cap": "🎬 Rambo III (1988)"
     }
   }
 }
