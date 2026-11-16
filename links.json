@@ -447,7 +447,8 @@
     "tv:324502": "https://t.me/S0Fi_9/1204",
     "tv:288588": "https://t.me/S0Fi_9/1205",
     "tv:278043": "https://t.me/S0Fi_9/1206",
-    "tv:207784": "https://t.me/S0Fi_9/1211"
+    "tv:207784": "https://t.me/S0Fi_9/1211",
+    "tv:36243": "https://t.me/S0Fi_9/1213"
   },
   "telebox": {
     "tv:204519": "https://lbx.to/s/KywYiWD?dirId=3515236",
@@ -636,7 +637,8 @@
     "tv:324502": "https://bxlnk.com/s/FFp9CHK?dirId=90604490",
     "tv:288588": "https://bxlnk.com/s/h947qLt?dirId=90633916",
     "tv:278043": "https://bxlnk.com/s/EgJAWAx?dirId=90651357",
-    "tv:207784": "https://bxlnk.com/s/vD1vAiY?dirId=90759070"
+    "tv:207784": "https://bxlnk.com/s/vD1vAiY?dirId=90759070",
+    "tv:36243": "https://bxlnk.com/s/wNdzhYS?dirId=90759608"
   },
   "seasons": {
     "tv:88046": ["https://t.me/+w29AVe_lX0EzMzcy","https://t.me/+w29AVe_lX0EzMzcy"],
@@ -1101,12 +1103,14 @@
     "tv:324502": [{"eps":[{"url":"https://bxlnk.com/s/FFp9CHK?dirId=90604490","d":"2026-11-13T19:19:20.767Z"},{"url":"https://bxlnk.com/s/FFp9CHK?dirId=90604490","d":"2026-11-13T19:19:20.767Z"},{"url":"https://bxlnk.com/s/FFp9CHK?dirId=90604490","d":"2026-11-13T19:19:20.767Z"},{"url":"https://bxlnk.com/s/FFp9CHK?dirId=90604490","d":"2026-11-13T19:19:20.767Z"},{"url":"https://bxlnk.com/s/FFp9CHK?dirId=90604490","d":"2026-11-13T19:19:20.767Z"},{"url":"https://bxlnk.com/s/FFp9CHK?dirId=90604490","d":"2026-11-13T19:19:20.767Z"},{"url":"https://bxlnk.com/s/FFp9CHK?dirId=90604490","d":"2026-11-13T19:19:20.767Z"}],"url":"https://bxlnk.com/s/FFp9CHK?dirId=90604490"}],
     "tv:288588": [{"eps":[{"url":"https://bxlnk.com/s/h947qLt?dirId=90633916","d":"2026-11-13T19:20:33.952Z"},{"url":"https://bxlnk.com/s/h947qLt?dirId=90633916","d":"2026-11-13T19:20:33.952Z"},{"url":"https://bxlnk.com/s/h947qLt?dirId=90633916","d":"2026-11-13T19:20:33.952Z"},{"url":"https://bxlnk.com/s/h947qLt?dirId=90633916","d":"2026-11-13T19:20:33.952Z"},{"url":"https://bxlnk.com/s/h947qLt?dirId=90633916","d":"2026-11-13T19:20:33.952Z"}],"url":"https://bxlnk.com/s/h947qLt?dirId=90633916"}],
     "tv:278043": ["https://bxlnk.com/s/EgJAWAx?dirId=90651357","https://bxlnk.com/s/4A5HKLm?dirId=90677668"],
-    "tv:207784": ["https://bxlnk.com/s/vD1vAiY?dirId=90759070"]
+    "tv:207784": ["https://bxlnk.com/s/vD1vAiY?dirId=90759070"],
+    "tv:36243": ["https://bxlnk.com/s/wNdzhYS?dirId=90759608"]
   },
   "added": {
     "tv:324502": "2026-11-13T20:12:00.049Z",
     "tv:288588": "2026-11-13T20:34:09.461Z",
     "tv:278043": "2026-11-14T10:55:25.709Z",
-    "tv:207784": "2026-11-16T12:19:30.097Z"
+    "tv:207784": "2026-11-16T12:19:30.097Z",
+    "tv:36243": "2026-11-16T22:35:04.215Z"
   }
 }
