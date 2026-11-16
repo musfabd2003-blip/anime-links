@@ -1746,6 +1746,11 @@
       "type": "video",
       "id": "BAACAgQAAxkBAAIDeGr7DcQIzgUb5lCC6GVsTPTxnSBpAAIWCgACSXiJUQe11S6QXyvVPQQ",
       "cap": "🎬 The Karate Kid (1984)"
+    },
+    "movie:8856": {
+      "type": "video",
+      "id": "BAACAgQAAxkBAAIDeWr7DcQvA1J8SldmEvgUi4Qrt0cSAALYDgACtVShUXGz1rjWFMWHPQQ",
+      "cap": "🎬 The Karate Kid Part II (1986)"
     }
   }
 }
