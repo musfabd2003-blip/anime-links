@@ -127,7 +127,8 @@
     "movie:613": "2026-11-16T08:31:49.648Z",
     "movie:37181": "2026-11-16T08:31:53.804Z",
     "movie:74465": "2026-11-16T08:31:58.894Z",
-    "movie:16082": "2026-11-16T08:59:38.695Z"
+    "movie:16082": "2026-11-16T08:59:38.695Z",
+    "movie:652": "2026-11-16T08:59:42.695Z"
   },
   "play": {
     "movie:414906": "ShashatiBot",
@@ -242,6 +243,7 @@
     "movie:613": "Shashati2bot",
     "movie:37181": "Shashati2bot",
     "movie:74465": "Shashati2bot",
-    "movie:16082": "Shashati2bot"
+    "movie:16082": "Shashati2bot",
+    "movie:652": "Shashati2bot"
   }
 }
