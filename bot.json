@@ -1751,6 +1751,11 @@
       "type": "video",
       "id": "BAACAgQAAxkBAAIDeWr7DcQvA1J8SldmEvgUi4Qrt0cSAALYDgACtVShUXGz1rjWFMWHPQQ",
       "cap": "🎬 The Karate Kid Part II (1986)"
+    },
+    "movie:10495": {
+      "type": "video",
+      "id": "BAACAgQAAxkBAAIDemr7DcQGnzOzIBn0_2DknfE1KSYpAAKICgACJtagURVWwQL0-ftYPQQ",
+      "cap": "🎬 The Karate Kid Part III (1989)"
     }
   }
 }
