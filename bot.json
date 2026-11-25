@@ -5195,8 +5195,10 @@
     },
     "tv:218230:1:6": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIJcWr-478-YHOEy3GsWaVYO0Hk16NlAAJIEgACxKXAUBmMY_BfCW5XPQQ",
-      "cap": "🎬 لعبة الموت · الموسم 1 · الحلقة 6"
+      "id": "BAACAgQAAxkBAAIBBGsHS81k1ijCDtCxjvP50_8yFQ9vAAJIEgACxKXAULGh-IEXCPD-PQQ",
+      "cap": "🎬 لعبة الموت · الموسم 1 · الحلقة 6",
+      "ch": "-1005773004173",
+      "mid": 150
     },
     "tv:261980:1:12": {
       "type": "video",
