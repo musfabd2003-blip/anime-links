@@ -5610,8 +5610,10 @@
     },
     "tv:1405:1:11": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIKSGr_ym4T4D0Yd7XwDjHiMQ8rx0pjAAJbDgAC9OmJSgWcPJ28Y1wCPQQ",
-      "cap": "🎬 دكستر · الموسم 1 · الحلقة 11"
+      "id": "BAACAgIAAxkBAAIBzmsHY9qAy5_0wqiabRozrSiJn6Z_AAJbDgAC9OmJSo6rB18pIOyHPQQ",
+      "cap": "🎬 دكستر · الموسم 1 · الحلقة 11",
+      "ch": "-1005773004173",
+      "mid": 282
     },
     "tv:1405:1:12": {
       "type": "video",
