@@ -5510,8 +5510,10 @@
     },
     "tv:259909:1:6": {
       "type": "video",
-      "id": "BAACAgEAAxkBAAIJ_2r_x6nhjFkEyuXj5O8DnW6kD38DAALpBQACnK2wRD2D71EeLipwPQQ",
-      "cap": "🎬 دكستر: القيامة · الموسم 1 · الحلقة 6"
+      "id": "BAACAgEAAxkBAAIBv2sHY9rc115kQSd1EMOobMmUXyRNAALpBQACnK2wRIIu3hzCD5OSPQQ",
+      "cap": "🎬 دكستر: القيامة · الموسم 1 · الحلقة 6",
+      "ch": "-1005773004173",
+      "mid": 267
     },
     "tv:259909:1:7": {
       "type": "video",
