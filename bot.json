@@ -1169,8 +1169,10 @@
     },
     "movie:77": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIBjWr6LS3LEK-R_7FG6544a8QtLRgeAAKuCAACC6-AUSHBYHLgFB9tPQQ",
-      "cap": "🎬 تِذكار (2000)"
+      "id": "BAACAgQAAxkBAANeawc2zgf8b61qgY-Cs0b8Ipw6UXoAAq4IAAILr4BRgsYCwXHmVk89BA",
+      "cap": "🎬 تِذكار (2000)",
+      "ch": "-1005773004173",
+      "mid": 43
     },
     "movie:1495": {
       "type": "video",
