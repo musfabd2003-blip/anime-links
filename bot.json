@@ -1225,8 +1225,10 @@
     },
     "movie:1493942": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIBmmr6Lnf-5r5ZpfztVyh3agUW7FoPAAJpCwAC6QfYUQp74_zvhF1kPQQ",
-      "cap": "🎬 Parasites (2019)"
+      "id": "BAACAgQAAxkBAANiawc2zkO7uh9f7HCCbDQxS1_2Jd8AAmkLAALpB9hR_VcHs-6EUHI9BA",
+      "cap": "🎬 Parasites (2019)",
+      "ch": "-1005773004173",
+      "mid": 54
     },
     "movie:3131": {
       "type": "video",
