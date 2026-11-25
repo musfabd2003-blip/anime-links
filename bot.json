@@ -5155,8 +5155,10 @@
     },
     "tv:218230:1:7": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIJamr-41PNj_l69biuldnoOZrq6Px2AAJqEAACGrjAUMIRcw3PyWdIPQQ",
-      "cap": "🎬 لعبة الموت · الموسم 1 · الحلقة 7"
+      "id": "BAACAgQAAxkBAAIBBWsHS81d2sZdQNXmZmBkJP0xmymcAAJqEAACGrjAUF7ek0qa1DONPQQ",
+      "cap": "🎬 لعبة الموت · الموسم 1 · الحلقة 7",
+      "ch": "-1005773004173",
+      "mid": 151
     },
     "tv:218230:1:1": {
       "type": "video",
