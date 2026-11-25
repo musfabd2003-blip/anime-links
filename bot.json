@@ -5040,8 +5040,10 @@
     },
     "tv:2317:1:7": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIJOGr-34avrNyQ8wjpWGrbTrSBAY2tAAKCEwACfPwpUr2nsGSyI31GPQQ",
-      "cap": "🎬 My Name Is Earl · الموسم 1 · الحلقة 7"
+      "id": "BAACAgQAAxkBAAP1awdLzcMRBMYLaOgbtlu3uTdZK04AAoITAAJ8_ClSdqyRZF-AQvA9BA",
+      "cap": "🎬 My Name Is Earl · الموسم 1 · الحلقة 7",
+      "ch": "-1005773004173",
+      "mid": 127
     },
     "tv:2317:1:8": {
       "type": "video",
