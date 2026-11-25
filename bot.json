@@ -5685,8 +5685,10 @@
     },
     "tv:1405:2:11": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIKXWr_y7pejL_Efk1DVGBTtwGBWEogAAJpDgAC9OmJSoJ8pnq9Ex2kPQQ",
-      "cap": "🎬 دكستر · الموسم 2 · الحلقة 11"
+      "id": "BAACAgIAAxkBAAIB2GsHY9rHA-ZM-DxySJN6QBVZsFOjAAJpDgAC9OmJSqZFr5QYhvnmPQQ",
+      "cap": "🎬 دكستر · الموسم 2 · الحلقة 11",
+      "ch": "-1005773004173",
+      "mid": 292
     },
     "tv:1405:2:12": {
       "type": "video",
