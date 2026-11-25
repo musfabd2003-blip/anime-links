@@ -5575,8 +5575,10 @@
     },
     "tv:1405:1:6": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIKQ2r_ym7iaJYw5LflpaQQk3nji8awAAJYDgAC9OmJSmyZwfMK93I_PQQ",
-      "cap": "🎬 دكستر · الموسم 1 · الحلقة 6"
+      "id": "BAACAgIAAxkBAAIByWsHY9rhj3oUlA5cs3k94Z531SMLAAJYDgAC9OmJShCHVDFxjzMKPQQ",
+      "cap": "🎬 دكستر · الموسم 1 · الحلقة 6",
+      "ch": "-1005773004173",
+      "mid": 277
     },
     "tv:1405:1:7": {
       "type": "video",
