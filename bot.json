@@ -4984,8 +4984,10 @@
     },
     "tv:316702:1:6": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIJJ2r-3p7MdHzS8Tm2ccROL0gAAQ2rYAACSB4AAiXeiVNq51sIIhxBDz0E",
-      "cap": "🎬 المائدة الأخيرة · الموسم 1 · الحلقة 6"
+      "id": "BAACAgQAAxkBAAPsawdLzfc5W3zonaLh80BrE9W-VLQAAkgeAAIl3olTaY0BAAFfos9JPQQ",
+      "cap": "🎬 المائدة الأخيرة · الموسم 1 · الحلقة 6",
+      "ch": "-1005773004173",
+      "mid": 118
     },
     "tv:316702:1:7": {
       "type": "video",
