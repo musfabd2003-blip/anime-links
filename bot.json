@@ -6084,8 +6084,11 @@
     },
     "movie:875828": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIK1WsAAQTK1_inoYZ3oP4HbN-Xmp8JxwACLh8AAqmHEFMqgyEnsO4FoD0E",
-      "cap": "🎬 بيكي بلايندرز: الرجل الخالد (2026)"
+      "id": "BAACAgQAAxkBAAICoWsHlgABj09o7uyVjDpR27JaBstACgACLh8AAqmHEFNpt3myPcDkmD0E",
+      "cap": "🎬 بيكي بلايندرز: الرجل الخالد (2026)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 371
     },
     "movie:1659351": {
       "type": "video",
