@@ -6227,8 +6227,11 @@
     },
     "tv:5920:1:12": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIK_WsAAQ_JceUeddgrX-qEuHphmZMuUQACbhoAAv_6-VDh_CEl5aLbUj0E",
-      "cap": "🎬 الوسيط الروحي · الموسم 1 · الحلقة 12"
+      "id": "BAACAgQAAxkBAAIC2WsH-oEeh_e8XUVMMELlFVAy9G46AAJuGgAC__r5UFauLmHCod_4PQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 1 · الحلقة 12",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 390
     },
     "tv:5920:1:13": {
       "type": "video",
