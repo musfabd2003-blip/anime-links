@@ -7772,8 +7772,11 @@
     },
     "tv:1438:3:5": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIMcGsAAdwyJQ6_tGTfg3kZzhv1Q4ispQACDxoAAulQAVLlrFOFQPoBzj0E",
-      "cap": "🎬 السلك · الموسم 3 · الحلقة 5"
+      "id": "BAACAgQAAxkBAAIGGWsIMFdyq29MOobHhLWnB9g-iVtDAAIPGgAC6VABUiZRPIJWnqRfPQQ",
+      "cap": "🎬 السلك · الموسم 3 · الحلقة 5",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 597
     },
     "tv:1438:3:6": {
       "type": "video",
