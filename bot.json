@@ -6859,8 +6859,11 @@
     },
     "tv:5920:4:9": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAILTWsAAQ_J4Ny8MdpuTPJL97y25QJSPAACThsAAv_6AVHOKoQvozkXQz0E",
-      "cap": "🎬 الوسيط الروحي · الموسم 4 · الحلقة 9"
+      "id": "BAACAgQAAxkBAAIDKWsH-oEcwtKrboo0VCnzEfTA5JvJAAJOGwAC__oBUUNUFl7jJh_tPQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 4 · الحلقة 9",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 491
     },
     "tv:5920:4:11": {
       "type": "video",
