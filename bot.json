@@ -6076,8 +6076,11 @@
     },
     "movie:1404304": {
       "type": "video",
-      "id": "BAACAgEAAxkBAAIK1GsAAQTKnTDjJSbAzFvQP4Kg5ieDnQACxAsAAuMaEEcnfwNagDw5Uj0E",
-      "cap": "🎬 The Isolate Thief (2026)"
+      "id": "BAACAgEAAxkBAAICoGsHlgABnpnVzxNzkWsNUxZOK7J_agACxAsAAuMaEEcCn4YnIvG6LT0E",
+      "cap": "🎬 The Isolate Thief (2026)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 370
     },
     "movie:875828": {
       "type": "video",
