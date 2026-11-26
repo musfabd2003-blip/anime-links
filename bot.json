@@ -6851,8 +6851,11 @@
     },
     "tv:5920:4:24": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAILTGsAAQ_Jqb7PP4RT4kDEMBkfxCFMvQACiiAAAn2iEVGGJSfpr0vY-z0E",
-      "cap": "🎬 الوسيط الروحي · الموسم 4 · الحلقة 24"
+      "id": "BAACAgQAAxkBAAIDKGsH-oGWBYaR_26vnN4gxH7X9xqyAAKKIAACfaIRUfF4BaN-Mou0PQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 4 · الحلقة 24",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 490
     },
     "tv:5920:4:9": {
       "type": "video",
