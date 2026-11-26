@@ -7479,8 +7479,11 @@
     },
     "tv:5920:7:8": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAILimsAAQ_ynTzrPH2wqaWzZSibiTip2AACDSAAAlf2GFGq66N96gABShk9BA",
-      "cap": "🎬 الوسيط الروحي · الموسم 7 · الحلقة 8"
+      "id": "BAACAgQAAxkBAAIF9WsIMFdGYnboIuwD7cAdeVEci_NEAAINIAACV_YYUQzVyeCbkoC0PQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 7 · الحلقة 8",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 554
     },
     "tv:5920:7:9": {
       "type": "video",
