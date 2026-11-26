@@ -6243,8 +6243,11 @@
     },
     "tv:5920:1:14": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIK_2sAAQ_JZhEO00hm71KizKSzTZvLJQACchoAAv_6-VA8OZ6TSTCzwj0E",
-      "cap": "🎬 الوسيط الروحي · الموسم 1 · الحلقة 14"
+      "id": "BAACAgQAAxkBAAIC22sH-oEwjikSQzB8gL7-w4g6rWd9AAJyGgAC__r5UC9uN2LLP7dBPQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 1 · الحلقة 14",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 392
     },
     "tv:5920:1:15": {
       "type": "video",
