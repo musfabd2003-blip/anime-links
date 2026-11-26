@@ -7511,8 +7511,11 @@
     },
     "tv:5920:7:12": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAILjmsAAQ_yWbGCZejApQolXc2vSTWSuAACFyAAAlf2GFHQr2whD7I1ez0E",
-      "cap": "🎬 الوسيط الروحي · الموسم 7 · الحلقة 12"
+      "id": "BAACAgQAAxkBAAIF-WsIMFegWnnzLYCsIaHInUNjlbi6AAIXIAACV_YYUbegE9icLmZPPQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 7 · الحلقة 12",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 558
     },
     "tv:5920:7:13": {
       "type": "video",
