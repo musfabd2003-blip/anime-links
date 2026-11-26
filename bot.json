@@ -6587,8 +6587,11 @@
     },
     "tv:5920:3:10": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAILKmsAAQ_Jb4wapZDxGgABzoi_JzJcsR4AAhUbAAL_-gFRV4wfGFUaULo9BA",
-      "cap": "🎬 الوسيط الروحي · الموسم 3 · الحلقة 10"
+      "id": "BAACAgQAAxkBAAIDBmsH-oHvFgjwzm6RVYhic7rCg_jEAAIVGwAC__oBUUDOB1JGNuE3PQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 3 · الحلقة 10",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 442
     },
     "tv:5920:3:11": {
       "type": "video",
