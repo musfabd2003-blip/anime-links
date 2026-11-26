@@ -6835,8 +6835,11 @@
     },
     "tv:5920:4:22": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAILSmsAAQ_JIOeAo4ZjkfdkPbM98NZJdAACiCAAAn2iEVErQTbmP9u-RD0E",
-      "cap": "🎬 الوسيط الروحي · الموسم 4 · الحلقة 22"
+      "id": "BAACAgQAAxkBAAIDJmsH-oE5PeoUXwIoduCBkIAlk1d6AAKIIAACfaIRUY1KylAzfStoPQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 4 · الحلقة 22",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 488
     },
     "tv:5920:4:23": {
       "type": "video",
