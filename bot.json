@@ -7596,8 +7596,11 @@
     },
     "tv:1438:1:10": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIMMGsAAT3IEcBkF1y3M-6lEaQHZTU4fQACMxUAApmegFJgN4yY3RosUT0E",
-      "cap": "🎬 السلك · الموسم 1 · الحلقة 10"
+      "id": "BAACAgQAAxkBAAIGAmsIMFfLKGV_1hnhpwhIQskXZhtNAAIzFQACmZ6AUidw6RYGGgr-PQQ",
+      "cap": "🎬 السلك · الموسم 1 · الحلقة 10",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 567
     },
     "tv:1438:1:11": {
       "type": "video",
