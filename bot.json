@@ -7407,8 +7407,11 @@
     },
     "tv:5920:6:11": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAILgWsAAQ_y1DGQ_65nYI2_ZHfRGuys7wACdSEAAn2iEVHp5OGeMHk2HT0E",
-      "cap": "🎬 الوسيط الروحي · الموسم 6 · الحلقة 11"
+      "id": "BAACAgQAAxkBAAIF7GsIMFfXzH1SxcJokJo0ywbMxyBCAAJ1IQACfaIRUbzsL7voSk6FPQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 6 · الحلقة 11",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 545
     },
     "tv:5920:6:13": {
       "type": "video",
