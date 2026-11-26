@@ -7836,8 +7836,11 @@
     },
     "tv:1438:4:1": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIMhGsAAd4WQMU36_0GacQa-6lNCC3hvAACHhoAAulQAVI2ojOwsSd8nj0E",
-      "cap": "🎬 السلك · الموسم 4 · الحلقة 1"
+      "id": "BAACAgQAAxkBAAIGIWsIMFeyLi78T8kvBUjcjm5X5pVwAAIeGgAC6VABUuvXJqUBfFq4PQQ",
+      "cap": "🎬 السلك · الموسم 4 · الحلقة 1",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 605
     },
     "tv:1438:4:2": {
       "type": "video",
