@@ -7572,8 +7572,11 @@
     },
     "tv:1438:1:7": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIMLWsAAT3IkySJ2abgfB0IWPLzZveOcgACLhUAApmegFLoVpqW3XPXCD0E",
-      "cap": "🎬 السلك · الموسم 1 · الحلقة 7"
+      "id": "BAACAgQAAxkBAAIF_2sIMFegpOtLwypUgIGwHPVKyPz6AAIuFQACmZ6AUpvuPo7ULmePPQQ",
+      "cap": "🎬 السلك · الموسم 1 · الحلقة 7",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 564
     },
     "tv:1438:1:8": {
       "type": "video",
