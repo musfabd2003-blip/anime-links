@@ -7700,8 +7700,11 @@
     },
     "tv:1438:2:8": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIMUWsAAT6wpePj4f5bkGZZ_AABESLVLZgAAgIaAALpUAFSyYDcWb_Mf9Y9BA",
-      "cap": "🎬 السلك · الموسم 2 · الحلقة 8"
+      "id": "BAACAgQAAxkBAAIGEGsIMFcXTBRK2De82yx73IZexBVjAAICGgAC6VABUv4gyojUKHCIPQQ",
+      "cap": "🎬 السلك · الموسم 2 · الحلقة 8",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 588
     },
     "tv:1438:2:9": {
       "type": "video",
