@@ -6771,8 +6771,11 @@
     },
     "tv:5920:4:13": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAILQmsAAQ_JT8zv2IL0Z1ob1aT5MdHcVQACXxsAAv_6AVFjs-pOavAomj0E",
-      "cap": "🎬 الوسيط الروحي · الموسم 4 · الحلقة 13"
+      "id": "BAACAgQAAxkBAAIDHmsH-oEbU6TR4vqbXE2Yf2wEJPN9AAJfGwAC__oBUX6dp_TAtQOxPQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 4 · الحلقة 13",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 473
     },
     "tv:5920:4:14": {
       "type": "video",
