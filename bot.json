@@ -7644,8 +7644,11 @@
     },
     "tv:1438:2:1": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIMSmsAAT6we1cjIrUpQP04Ifxt2IKKkwAC7BkAAqEBQVETPZH8CCXdXT0E",
-      "cap": "🎬 السلك · الموسم 2 · الحلقة 1"
+      "id": "BAACAgQAAxkBAAIGCWsIMFcbb0J3HSrMu3Z2hmBDIJafAALsGQACoQFBUVBmydRHPXJdPQQ",
+      "cap": "🎬 السلك · الموسم 2 · الحلقة 1",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 574
     },
     "tv:1438:2:2": {
       "type": "video",
