@@ -6915,8 +6915,11 @@
     },
     "tv:5920:5:6": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAILVGsAAQ_J3KezEdwYAAFc011GPSLBR3AAApcgAAJ9ohFRw8g5gsfvJCM9BA",
-      "cap": "🎬 الوسيط الروحي · الموسم 5 · الحلقة 6"
+      "id": "BAACAgQAAxkBAAIDMGsH-oGBh4X3E2Oty4YO9xQkv__7AAKXIAACfaIRUWyvXqmIw6XRPQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 5 · الحلقة 6",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 498
     },
     "tv:5920:5:7": {
       "type": "video",
