@@ -7812,8 +7812,11 @@
     },
     "tv:1438:3:11": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIMdWsAAdwyS-Tq4SdyUzIMKqoGmkHazwACGxoAAulQAVIRNZ6a1CaOUj0E",
-      "cap": "🎬 السلك · الموسم 3 · الحلقة 11"
+      "id": "BAACAgQAAxkBAAIGHmsIMFeS-hyeGvZrnDMAAUeAq9dvZwACGxoAAulQAVKeHXfPe32vUj0E",
+      "cap": "🎬 السلك · الموسم 3 · الحلقة 11",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 602
     },
     "tv:1438:3:12": {
       "type": "video",
