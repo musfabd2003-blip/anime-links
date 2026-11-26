@@ -7612,8 +7612,11 @@
     },
     "tv:1438:1:12": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIMMmsAAT3IJL6tm-gFDMuNUQ8kVVl1_AACNRUAApmegFJO8_Obzon0Uj0E",
-      "cap": "🎬 السلك · الموسم 1 · الحلقة 12"
+      "id": "BAACAgQAAxkBAAIGBGsIMFelxj46JEY7qk0XXDwV_gFZAAI1FQACmZ6AUpQYmgdYg21RPQQ",
+      "cap": "🎬 السلك · الموسم 1 · الحلقة 12",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 569
     },
     "tv:1438:1:13": {
       "type": "video",
