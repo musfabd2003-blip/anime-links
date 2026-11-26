@@ -6203,8 +6203,11 @@
     },
     "tv:5920:1:9": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIK-msAAQ_JGlUkN8Y9OhOKtgFHxT8LQAACYRoAAv_6-VDbqXtlq8152T0E",
-      "cap": "🎬 الوسيط الروحي · الموسم 1 · الحلقة 9"
+      "id": "BAACAgQAAxkBAAIC1msH-oE0mi7d4uNqSoqcOW8wtkVUAAJhGgAC__r5UMrozBolQpQ0PQQ",
+      "cap": "🎬 الوسيط الروحي · الموسم 1 · الحلقة 9",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 387
     },
     "tv:5920:1:10": {
       "type": "video",
