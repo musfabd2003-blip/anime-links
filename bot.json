@@ -4176,8 +4176,11 @@
     },
     "tv:1402:11:20": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIGRmr8KM8sbJSE6yfib3bKmoWMkNheAAKEBQACc0RoVlco5lAlmIjAPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 11 · الحلقة 20"
+      "id": "BAACAgUAAxkBAAIJbWsJ4tacSx9871INCRJPPN2X1IOSAAKEBQACc0RoVqBoym37lLPfPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 11 · الحلقة 20",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1096
     },
     "tv:1402:11:21": {
       "type": "video",
