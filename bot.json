@@ -6299,8 +6299,11 @@
     },
     "movie:12493": {
       "type": "video",
-      "id": "BAACAgEAAxkBAAII0Wr9-ksdh0ycdLlfiWU_N9nLcm8UAAI9BwACs1ApRiJRLbA5G5FdPQQ",
-      "cap": "🎬 天国と地獄 (1963)"
+      "id": "BAACAgEAAxkBAAIL_2sKCdORQIuHE7iLEEMiZeBeJ0XPAAI9BwACs1ApRqfBjpDez9X2PQQ",
+      "cap": "🎬 天国と地獄 (1963)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1613
     },
     "movie:372058": {
       "type": "video",
