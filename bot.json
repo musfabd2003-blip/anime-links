@@ -8658,8 +8658,11 @@
     },
     "tv:1405:7:10": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINc2sCzaqqot27K2juDi-KQcamcUSNAAKyBwACDxCYUpZRQPzd4ohVPQQ",
-      "cap": "🎬 دكستر · الموسم 7 · الحلقة 10"
+      "id": "BAACAgQAAxkBAAIG8GsJiMKZQjM7iKT6bowRYnXAlHWEAAKyBwACDxCYUh-gC1565S0zPQQ",
+      "cap": "🎬 دكستر · الموسم 7 · الحلقة 10",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 731
     },
     "tv:1405:7:11": {
       "type": "video",
