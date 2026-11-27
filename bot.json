@@ -3653,8 +3653,11 @@
     },
     "tv:1402:7:13": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIF-Wr8KM9tnMEOB1vzQAK6UUt7M6w_AAKRAgACNvDQVcNpJd7P5NJiPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 7 · الحلقة 13"
+      "id": "BAACAgUAAxkBAAIJIGsJ4taBVTTrNmZV3Xnqpm_MHGZDAAKRAgACNvDQVb86UzLOLh6CPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 7 · الحلقة 13",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1007
     },
     "tv:1402:7:14": {
       "type": "video",
