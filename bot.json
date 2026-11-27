@@ -8138,8 +8138,11 @@
     },
     "movie:70006": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIM5msBZesXlAYBvizkOXbQ5UjB6MTDAAKUFAAC4EmJUqUC87QD9AhrPQQ",
-      "cap": "🎬 Never Back Down 2: The Beatdown (2011)"
+      "id": "BAACAgQAAxkBAAIGr2sJiMIBYC4Xot1B6VYT-hdJIDW0AAKUFAAC4EmJUuxv3SCvEPdKPQQ",
+      "cap": "🎬 Never Back Down 2: The Beatdown (2011)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 647
     },
     "movie:8456": {
       "type": "video",
