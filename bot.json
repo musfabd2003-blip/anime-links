@@ -8370,8 +8370,11 @@
     },
     "tv:1405:4:10": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINK2sCv9cPeiptg5r9lzZ8w4tUVPQhAAKZCgACbbWIUi3QowAB455wDT0E",
-      "cap": "🎬 دكستر · الموسم 4 · الحلقة 10"
+      "id": "BAACAgQAAxkBAAIGzGsJiMILtL8YPvaiISjU9bFhzxskAAKZCgACbbWIUgbtFSWfyfN0PQQ",
+      "cap": "🎬 دكستر · الموسم 4 · الحلقة 10",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 676
     },
     "tv:1405:4:11": {
       "type": "video",
