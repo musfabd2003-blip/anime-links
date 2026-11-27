@@ -3743,8 +3743,11 @@
     },
     "movie:82650": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIFKmr7bEk8dyQ8lvYWiKViOvQ-PRh9AALIBgACFLc4UE6SQ9Qu2NQvPQQ",
-      "cap": "🎬 مذكرات طفل جبان: أيام الكلاب (2012)"
+      "id": "BAACAgQAAxkBAAILWGsKCbPnoE8ht-Zp1nRRqDWBtT7PAALIBgACFLc4UO1Wk5M1YrWTPQQ",
+      "cap": "🎬 مذكرات طفل جبان: أيام الكلاب (2012)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1417
     },
     "movie:417830": {
       "type": "video",
