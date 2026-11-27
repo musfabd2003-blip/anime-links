@@ -4271,8 +4271,11 @@
     },
     "tv:76479:4:8": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIFwGr8ISjLvl0jAkWBmlFurYYTLtknAAKrEAAClFbJUFpgGgWLZUUCPQQ",
-      "cap": "🎬 الرفاق · الموسم 4 · الحلقة 8"
+      "id": "BAACAgQAAxkBAAILk2sKCcw6i8nPy7kw1gu5r2rvS-tlAAKrEAAClFbJUDIhTlZlQCQpPQQ",
+      "cap": "🎬 الرفاق · الموسم 4 · الحلقة 8",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1484
     },
     "tv:76479:5:1": {
       "type": "video",
