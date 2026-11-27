@@ -4152,8 +4152,11 @@
     },
     "tv:1402:11:17": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIGQ2r8KM9B00pmEtulLhcuwKJ9Jyv_AAJ7BgACv7zRVarWgGLKjovHPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 11 · الحلقة 17"
+      "id": "BAACAgUAAxkBAAIJamsJ4tYtjmaoIdlGnqF666UmjvP6AAJ7BgACv7zRVSPlZjK8dXQ5PQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 11 · الحلقة 17",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1093
     },
     "tv:1402:11:18": {
       "type": "video",
