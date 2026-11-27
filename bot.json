@@ -4319,8 +4319,11 @@
     },
     "tv:76479:5:7": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIFx2r8ISgtIWuXg-U0UK7B9FbyBMDnAAKzHQAC4SUoUF2oX5s4plbhPQQ",
-      "cap": "🎬 الرفاق · الموسم 5 · الحلقة 7"
+      "id": "BAACAgQAAxkBAAILmmsKCcx4q0cKYgN52qjI08OHEojUAAKzHQAC4SUoUB98CSzn-Q8tPQQ",
+      "cap": "🎬 الرفاق · الموسم 5 · الحلقة 7",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1498
     },
     "tv:76479:5:8": {
       "type": "video",
