@@ -6039,8 +6039,11 @@
     },
     "tv:84958:1:3": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIIlGr94hDLvvmpTC58GUemsdeWGQRfAAIBFwACQ3-AVzDlLp9LIIJEPQQ",
-      "cap": "🎬 لوكي · الموسم 1 · الحلقة 3"
+      "id": "BAACAgUAAxkBAAIL02sKCcz6B2YjsDlOSvi8aPa9iX_PAAIBFwACQ3-AV34aZo-RNqlhPQQ",
+      "cap": "🎬 لوكي · الموسم 1 · الحلقة 3",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1562
     },
     "tv:84958:1:4": {
       "type": "video",
