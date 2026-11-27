@@ -3677,8 +3677,11 @@
     },
     "tv:1402:7:16": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIF_Gr8KM_AtY_RyB0EpDOVfJ3UlZTBAAKYAgACNvDQVU5IPF997yGLPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 7 · الحلقة 16"
+      "id": "BAACAgUAAxkBAAIJI2sJ4tacgstxosTaidbFATktwiUKAAKYAgACNvDQVUeGuWJsTLmMPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 7 · الحلقة 16",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1010
     },
     "tv:1402:8:1": {
       "type": "video",
