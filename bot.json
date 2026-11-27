@@ -1966,8 +1966,11 @@
     },
     "movie:977942": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAICXmr6yyfFXH6YkTKrwx8SVb07f4TbAAJAIwACyyDgUb1LnP-70dfOPQQ",
-      "cap": "🎬 الانتفاضة (2026)"
+      "id": "BAACAgQAAxkBAAIKNWsJ-CdKYZLBA4ucJpaZYWsoS0VPAAJAIwACyyDgUZ8ZKxWeqZfnPQQ",
+      "cap": "🎬 الانتفاضة (2026)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1192
     },
     "movie:969681": {
       "type": "video",
