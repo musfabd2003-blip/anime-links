@@ -1663,8 +1663,11 @@
     },
     "movie:652": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAICIWr6xfi7iwaw7yMDsGWwTlvAb2AwAAJJCwAC0ZqYUedjZMNqD9T8PQQ",
-      "cap": "🎬 طروادة (2004)"
+      "id": "BAACAgQAAxkBAAIKCmsJ-CfwYNh2Rtn3zDREQPqykVtmAAJJCwAC0ZqYUTg_gGn0AAElsz0E",
+      "cap": "🎬 طروادة (2004)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1135
     },
     "movie:1054867": {
       "type": "video",
