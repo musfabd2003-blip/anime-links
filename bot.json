@@ -5994,8 +5994,11 @@
     },
     "tv:213375:1:6": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIIYWr9liFvDwGk2awMBmoVyoEki9q3AAL8IAAC59QJU_bsq1TNmD0UPQQ",
-      "cap": "🎬 رحلة ڤيجن · الموسم 1 · الحلقة 6"
+      "id": "BAACAgQAAxkBAAILzmsKCcy5QjLbk0NEpLuhh-GATQ1BAAL8IAAC59QJU187bGefoW3MPQQ",
+      "cap": "🎬 رحلة ڤيجن · الموسم 1 · الحلقة 6",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1557
     },
     "tv:213375:1:7": {
       "type": "video",
