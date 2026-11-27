@@ -6372,8 +6372,11 @@
     },
     "movie:38": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAII4Gr9-ku_v1Ye3nZI7vyHotTWe9WuAAK5CAACDb7xUHOHHkvcsrr1PQQ",
-      "cap": "🎬 إشراقة أبدية لعقل نظيف (2004)"
+      "id": "BAACAgQAAxkBAAIMDmsKCdOMnfNvlxZBEc9QVHcELI1uAAK5CAACDb7xUHlojuEGL_yQPQQ",
+      "cap": "🎬 إشراقة أبدية لعقل نظيف (2004)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1635
     },
     "movie:284": {
       "type": "video",
