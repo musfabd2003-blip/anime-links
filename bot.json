@@ -1748,8 +1748,11 @@
     },
     "movie:701387": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAICNWr6xy4TkhBGqtgkVgr1g1omarN_AAIciwACStBRSmci982N8BrdPQQ",
-      "cap": "🎬 بوغونيا (2025)"
+      "id": "BAACAgIAAxkBAAIKFWsJ-CeM1vChqgXotggvWRIAAdNpfgACHIsAAkrQUUqtqN45fcfBSD0E",
+      "cap": "🎬 بوغونيا (2025)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1153
     },
     "movie:102762": {
       "type": "video",
