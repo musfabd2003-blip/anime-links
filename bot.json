@@ -8666,8 +8666,11 @@
     },
     "tv:1405:7:11": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINdGsCzaoW1kWnI75MSiaDfp_qsPnlAAKzBwACDxCYUkJHhA5v_7XnPQQ",
-      "cap": "🎬 دكستر · الموسم 7 · الحلقة 11"
+      "id": "BAACAgQAAxkBAAIG8WsJiMIj-ibgGeJySIKrL4e48zYeAAKzBwACDxCYUsvZ4Sb1Y-hlPQQ",
+      "cap": "🎬 دكستر · الموسم 7 · الحلقة 11",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 732
     },
     "tv:1405:7:12": {
       "type": "video",
