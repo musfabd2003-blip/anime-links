@@ -2970,8 +2970,11 @@
     },
     "movie:772": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAID72r7GXY3HR2VcKCYPcPa-hCQdi-SAAJACwACrFegU1r_Kj8qCtQWPQQ",
-      "cap": "🎬 وحيد في المنزل 2: ضائع في نيويورك (1992)"
+      "id": "BAACAgQAAxkBAAILLGsKCbO0jRlTflkZtt8siJ7EVmESAAJACwACrFegU8oJwyRiZa1jPQQ",
+      "cap": "🎬 وحيد في المنزل 2: ضائع في نيويورك (1992)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1367
     },
     "movie:9714": {
       "type": "video",
