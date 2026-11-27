@@ -4039,8 +4039,11 @@
     },
     "tv:76479:1:3": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIFm2r8ICn9L-WYtISMCYB1ynnTfQABoQAC9QgAAhzfiUuilvrHGAZNoT0E",
-      "cap": "🎬 الرفاق · الموسم 1 · الحلقة 3"
+      "id": "BAACAgIAAxkBAAILcGsKCbMDixbr_zFdb6VPD7YFLXBAAAL1CAACHN-JS3k5ji-mL1F4PQQ",
+      "cap": "🎬 الرفاق · الموسم 1 · الحلقة 3",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1448
     },
     "tv:76479:1:4": {
       "type": "video",
