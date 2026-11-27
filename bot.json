@@ -4047,8 +4047,11 @@
     },
     "tv:76479:1:4": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIFnGr8ICnHHh8Iz0tTv-E0E75wvILhAAL2CAACHN-JS7L5cXY5L6ELPQQ",
-      "cap": "🎬 الرفاق · الموسم 1 · الحلقة 4"
+      "id": "BAACAgIAAxkBAAILcWsKCbNVitanvEk1Wy2kYI0UT_pjAAL2CAACHN-JS0dmywt0jT6KPQQ",
+      "cap": "🎬 الرفاق · الموسم 1 · الحلقة 4",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1449
     },
     "tv:76479:1:5": {
       "type": "video",
