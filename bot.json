@@ -3552,8 +3552,11 @@
     },
     "tv:1402:7:1": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIF6Wr8Jwz6SsQgcysx5VPdGTxeWFmsAAJiAgACNvDQVRMixXphliqSPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 7 · الحلقة 1"
+      "id": "BAACAgUAAxkBAAIJFGsJ4taHOqVLvDDl05LO0L2SsGqZAAJiAgACNvDQVZNQVYZqzOKPPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 7 · الحلقة 1",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 995
     },
     "tv:1402:11:16": {
       "type": "video",
