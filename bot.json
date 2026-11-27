@@ -8988,8 +8988,11 @@
     },
     "tv:1398:1:1": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIN32sE1TV3hO3l-X0EyGxtr1PddvAqAAK-FAACNB7xU2ou9UvdcBi-PQQ",
-      "cap": "🎬 آل سوبرانو · الموسم 1 · الحلقة 1"
+      "id": "BAACAgQAAxkBAAIHwmsJnv4RIbVFpNFutfUfSevJtBY-AAK-FAACNB7xU-enSuyOzPP-PQQ",
+      "cap": "🎬 آل سوبرانو · الموسم 1 · الحلقة 1",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 803
     },
     "tv:1398:1:2": {
       "type": "video",
