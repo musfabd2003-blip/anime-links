@@ -10127,8 +10127,11 @@
     },
     "tv:61889:3:6": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIOrGsFWwipbREYFV7j8I63kOOfrd6rAALsHQACWVLRUxxJZxFBSstsPQQ",
-      "cap": "🎬 مارفيل: ديرديفل · الموسم 3 · الحلقة 6"
+      "id": "BAACAgQAAxkBAAIIuGsJ1Mt_TQ2gGsdeurxgDOQ81V1IAALsHQACWVLRU-FoW3f0S8ZwPQQ",
+      "cap": "🎬 مارفيل: ديرديفل · الموسم 3 · الحلقة 6",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 973
     },
     "tv:61889:3:7": {
       "type": "video",
