@@ -5727,8 +5727,11 @@
     },
     "movie:569094": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIH4Gr8woMV102dcIEKF6FZvYmrjgO9AAINEQACOhX5UxJ0AdM8DEX4PQQ",
-      "cap": "🎬 سبايدرمان: عبر عالم العنكبوت (2023)"
+      "id": "BAACAgQAAxkBAAILqWsKCczGCnsa9sDHge3-6fCg0fy5AAINEQACOhX5U3SyYc7dsAjyPQQ",
+      "cap": "🎬 سبايدرمان: عبر عالم العنكبوت (2023)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1513
     },
     "movie:76600": {
       "type": "video",
