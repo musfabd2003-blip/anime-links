@@ -6281,8 +6281,11 @@
     },
     "movie:567": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIIzGr9-ks2Pu-VVfqD79rafqn6qg5_AAOFAAIEUmBIAc4xjf5KrfQ9BA",
-      "cap": "🎬 النافذة الخلفية (1954)"
+      "id": "BAACAgIAAxkBAAIL-msKCdNAOLDdRBCgT60rEUUt0x_dAAOFAAIEUmBI6nYXBatw1Kw9BA",
+      "cap": "🎬 النافذة الخلفية (1954)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1607
     },
     "movie:693134": {
       "type": "video",
