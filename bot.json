@@ -3589,8 +3589,11 @@
     },
     "tv:1402:7:5": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIF8Wr8KM-Or2ncFK4b3ip34j3ieuTSAAJyAgACNvDQVfHmfmleYBdWPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 7 · الحلقة 5"
+      "id": "BAACAgUAAxkBAAIJGGsJ4tbLRPs6RNfcqIoBIXEVhASlAAJyAgACNvDQVXRbrx2MeNxRPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 7 · الحلقة 5",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 999
     },
     "tv:1402:7:6": {
       "type": "video",
