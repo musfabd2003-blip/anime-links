@@ -6155,8 +6155,11 @@
     },
     "movie:769": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIIuGr9-kvZ9FuGxsRWHS98RKvzMYdEAAIVEgACjePQU74oa6d2RdfSPQQ",
-      "cap": "🎬 الرفاق الصالحون (1990)"
+      "id": "BAACAgQAAxkBAAIL5msKCdOp4h1IHxJut0-Q960evKPcAAIVEgACjePQU3-tRsJtvKLpPQQ",
+      "cap": "🎬 الرفاق الصالحون (1990)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1580
     },
     "movie:157336": {
       "type": "video",
