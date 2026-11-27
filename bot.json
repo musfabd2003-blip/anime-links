@@ -8258,8 +8258,11 @@
     },
     "tv:1405:3:8": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINEWsCvutkk7978-f1y2ooWv9-zf45AAKLCgACbbWIUg2p6pnHGlfcPQQ",
-      "cap": "🎬 دكستر · الموسم 3 · الحلقة 8"
+      "id": "BAACAgQAAxkBAAIGvmsJiML80yuOKjqpQdfhjPfKdQ3IAAKLCgACbbWIUiCI4jq0tQ51PQQ",
+      "cap": "🎬 دكستر · الموسم 3 · الحلقة 8",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 662
     },
     "tv:1405:3:9": {
       "type": "video",
