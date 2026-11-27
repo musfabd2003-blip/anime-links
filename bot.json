@@ -2962,8 +2962,11 @@
     },
     "movie:771": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAID7mr7GXbnwJG4M57IRwABjBa_LaS1twACxgkAAj1eiFO6tJ5D1dwHGD0E",
-      "cap": "🎬 وحيد في المنزل (1990)"
+      "id": "BAACAgQAAxkBAAILK2sKCbMPnGeZ4E3uEDzgL8LreApYAALGCQACPV6IU_sDY4s8II3NPQQ",
+      "cap": "🎬 وحيد في المنزل (1990)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1366
     },
     "movie:772": {
       "type": "video",
