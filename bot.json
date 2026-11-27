@@ -8067,8 +8067,11 @@
     },
     "movie:11": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIM0GsBYAXbvammH111LFo-d-ZRfvs8AALOEQACAegoURmjkSr1yHcNPQQ",
-      "cap": "🎬 حرب النجوم (1977)"
+      "id": "BAACAgQAAxkBAAIGpWsJiMIIDhbrCAQQF1d9J0ssfsiXAALOEQACAegoUUnoYds_O2aCPQQ",
+      "cap": "🎬 حرب النجوم (1977)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 637
     },
     "movie:1893": {
       "type": "video",
