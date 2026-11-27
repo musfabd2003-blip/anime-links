@@ -3733,8 +3733,11 @@
     },
     "tv:1402:8:7": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIGA2r8KM9t10lhOaYOfSSWhwn1wRpUAALcAgACNvDQVU3e_QlczhvMPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 8 · الحلقة 7"
+      "id": "BAACAgUAAxkBAAIJKmsJ4tZ6nUHpqucSTRIc71xhQnn8AALcAgACNvDQVWvqYVRbrLHePQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 8 · الحلقة 7",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1024
     },
     "tv:1402:8:8": {
       "type": "video",
