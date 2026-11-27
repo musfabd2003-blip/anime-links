@@ -2614,8 +2614,11 @@
     },
     "movie:50619": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIDiGr7D5amZQqUW98LRMHgdIQcxKEAA519AALj7kBK-bzFEX71W2c9BA",
-      "cap": "🎬 ملحمة الشفق: بزوغ الفجر ج1 (2011)"
+      "id": "BAACAgIAAxkBAAIK-WsKCayLbSg9FZdxsU5xBjm7sAcXAAKdfQAC4-5AStcaNdP_EQrbPQQ",
+      "cap": "🎬 ملحمة الشفق: بزوغ الفجر ج1 (2011)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1304
     },
     "movie:50620": {
       "type": "video",
