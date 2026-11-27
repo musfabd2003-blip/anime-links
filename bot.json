@@ -6233,8 +6233,11 @@
     },
     "movie:1422": {
       "type": "video",
-      "id": "BAACAgIAAxkBAANFavn_piGsDy_N2pHuskZmkX62XwUAAvUGAAKDddlLKqPL4GBQOMk9BA",
-      "cap": "🎬 المغادرون (2006)"
+      "id": "BAACAgIAAxkBAAIL8msKCdM1C_A5HguT_04__Y3IJCAQAAL1BgACg3XZSywOYhc-VjNfPQQ",
+      "cap": "🎬 المغادرون (2006)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1592
     },
     "movie:101": {
       "type": "video",
