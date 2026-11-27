@@ -8354,8 +8354,11 @@
     },
     "tv:1405:4:8": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINKWsCv9e6GrgI6_3NAWrIGqTJhUnpAAKXCgACbbWIUpjrt-Y4qvhZPQQ",
-      "cap": "🎬 دكستر · الموسم 4 · الحلقة 8"
+      "id": "BAACAgQAAxkBAAIGymsJiMJDqcahHdrRIdBCQ8HBs-_0AAKXCgACbbWIUnFrjN0wBKtdPQQ",
+      "cap": "🎬 دكستر · الموسم 4 · الحلقة 8",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 674
     },
     "tv:1405:4:9": {
       "type": "video",
