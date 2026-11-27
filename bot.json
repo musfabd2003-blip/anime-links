@@ -1679,8 +1679,11 @@
     },
     "movie:1062722": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAICI2r6xfhygjxTDZJHuofM9DwQZtYlAAL3hgACHfmwSZB9cUxqqS7MPQQ",
-      "cap": "🎬 فرانكشتاين (2025)"
+      "id": "BAACAgIAAxkBAAIKDGsJ-Cehu0UmNIeSpxIkmMMq63mWAAL3hgACHfmwSRhODMBauPyfPQQ",
+      "cap": "🎬 فرانكشتاين (2025)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1137
     },
     "movie:1087192": {
       "type": "video",
