@@ -9186,8 +9186,11 @@
     },
     "tv:1398:3:2": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIOFGsE1vnfHeiGEkwbcsmdgqIwKxq-AAL4HQACpnP5Uyl8xDm3zjMsPQQ",
-      "cap": "🎬 آل سوبرانو · الموسم 3 · الحلقة 2"
+      "id": "BAACAgQAAxkBAAIH12sJnv76oJMQKj8_oXlog4ENhZquAAL4HQACpnP5Uy9AXzoQnMc3PQQ",
+      "cap": "🎬 آل سوبرانو · الموسم 3 · الحلقة 2",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 824
     },
     "tv:1398:3:3": {
       "type": "video",
