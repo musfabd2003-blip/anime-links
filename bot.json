@@ -1974,8 +1974,11 @@
     },
     "movie:969681": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAICX2r6yycL1WeWbadTDtug0cFr2DB2AAI8rAACiqIgStoWVAjwbC7lPQQ",
-      "cap": "🎬 سبايدر-مان: يوم جديد (2026)"
+      "id": "BAACAgIAAxkBAAIKNmsJ-CeQ-asX7LRWTRGUb2ThGEgaAAI8rAACiqIgSm574D3oKPppPQQ",
+      "cap": "🎬 سبايدر-مان: يوم جديد (2026)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1193
     },
     "movie:1290418": {
       "type": "video",
