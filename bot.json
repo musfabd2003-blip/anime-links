@@ -8877,8 +8877,11 @@
     },
     "movie:9737": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINsWsCz_vH3KkI4CscYH7ekgqEuq-DAALKCgACTl2AUFgvkZBHIcn0PQQ",
-      "cap": "🎬 فتيان اشقياء (1995)"
+      "id": "BAACAgQAAxkBAAIHcGsJmOWE4_zpcuyXNgz2qATvjAt9AALKCgACTl2AUEVRZpCnJhHrPQQ",
+      "cap": "🎬 فتيان اشقياء (1995)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 766
     },
     "movie:8961": {
       "type": "video",
