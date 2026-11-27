@@ -3602,8 +3602,11 @@
     },
     "movie:889737": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIE9Wr7ZtmaEVdg5nFOk_GYVjYPNfiuAAKyFQACwVkAAVFgfaW4ZaSHvz0E",
-      "cap": "🎬 جوكر: معًا في الجنون (2024)"
+      "id": "BAACAgQAAxkBAAILRWsKCbNsOx-oXK7hn7nivgwRYutJAAKyFQACwVkAAVGJA-KO-YHvlz0E",
+      "cap": "🎬 جوكر: معًا في الجنون (2024)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1400
     },
     "movie:334175": {
       "type": "video",
