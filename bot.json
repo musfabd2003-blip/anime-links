@@ -4016,8 +4016,11 @@
     },
     "tv:1402:1:6": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIGsGr8M1gQU6IIYWGS3uZn3g9isZmqAALtEwACM5YoUxLpljlBnqe5PQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 1 · الحلقة 6"
+      "id": "BAACAgQAAxkBAAIHm2sJnXc-tna5H8u0Da8kHVpyj13lAALtEwACM5YoU5EqlXFd1Y4IPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 1 · الحلقة 6",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 777
     },
     "tv:1402:2:1": {
       "type": "video",
