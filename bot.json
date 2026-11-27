@@ -8130,8 +8130,11 @@
     },
     "movie:9297": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIM5WsBZeu61UjjQw0brPRrCh5a8778AAJ9DwACFfiIVEros7971P3RPQQ",
-      "cap": "🎬 المنزل الوحش (2006)"
+      "id": "BAACAgUAAxkBAAIGrmsJiML-JsRJHSN0yNyOGx-fCWVRAAJ9DwACFfiIVIdZIb7ly_EVPQQ",
+      "cap": "🎬 المنزل الوحش (2006)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 646
     },
     "movie:70006": {
       "type": "video",
