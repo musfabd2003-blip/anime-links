@@ -2686,8 +2686,11 @@
     },
     "movie:1577": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIDn2r7Exf04z5SjyzKsBinzWk2kzRDAALTCQACIWrhS1439GQeOzrCPQQ",
-      "cap": "🎬 الشر المقيم : نهاية العالم (2004)"
+      "id": "BAACAgIAAxkBAAILAmsKCaysbmoG3S4mcORFGAUMej9fAALTCQACIWrhS5mNJvbhOEzzPQQ",
+      "cap": "🎬 الشر المقيم : نهاية العالم (2004)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1313
     },
     "movie:7737": {
       "type": "video",
