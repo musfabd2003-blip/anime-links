@@ -4200,8 +4200,11 @@
     },
     "tv:1402:11:23": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIGSWr8KM_hZSmwc0C6yVbiH30bL7l0AALCCAACXrdAV-9xkyJLwvAQPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 11 · الحلقة 23"
+      "id": "BAACAgUAAxkBAAIJcGsJ4tZqhZYZkXIYI9fMFHgs0n_QAALCCAACXrdAV4-wu1vE6NiYPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 11 · الحلقة 23",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1099
     },
     "tv:1402:11:24": {
       "type": "video",
