@@ -2238,8 +2238,11 @@
     },
     "movie:396422": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIC_mr61vx1ufdGlHqcqu3_bX6Mh7EqAALTCwACSUCYU2GBbAc14YhuPQQ",
-      "cap": "🎬 آنابيل: نشأة (2017)"
+      "id": "BAACAgQAAxkBAAIKxmsKCawWCYjLZarfmq6DGCGvfA_7AALTCwACSUCYUzMSySrGkEoBPQQ",
+      "cap": "🎬 آنابيل: نشأة (2017)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1244
     },
     "movie:439079": {
       "type": "video",
