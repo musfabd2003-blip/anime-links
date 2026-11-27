@@ -6324,8 +6324,11 @@
     },
     "movie:935": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAII1mr9-kuRkuxV6-WUMdn-70chjca2AAJLgwACsSt5SFMGYB9yo4W4PQQ",
-      "cap": "🎬 دكتور سترينجلوف أو: كيف توقفت عن القلق وأحببت القنبلة (1964)"
+      "id": "BAACAgIAAxkBAAIMBGsKCdP-gRYRM0XP0CPFwsbRrx_hAAJLgwACsSt5SOKVX8vibqz8PQQ",
+      "cap": "🎬 دكتور سترينجلوف أو: كيف توقفت عن القلق وأحببت القنبلة (1964)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1625
     },
     "movie:1302690": {
       "type": "video",
