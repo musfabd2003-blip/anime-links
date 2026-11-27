@@ -6047,8 +6047,11 @@
     },
     "tv:84958:1:4": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIIlWr94hDYDpi_7kZd6aYG3nEekCLtAAJoGwACeviAV_sbWVMpWkOgPQQ",
-      "cap": "🎬 لوكي · الموسم 1 · الحلقة 4"
+      "id": "BAACAgUAAxkBAAIL1GsKCczQiDvkaJSWLJzZhgv23AJdAAJoGwACeviAV5KmTeX_4z2pPQQ",
+      "cap": "🎬 لوكي · الموسم 1 · الحلقة 4",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1563
     },
     "tv:84958:1:5": {
       "type": "video",
