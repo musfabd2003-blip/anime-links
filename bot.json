@@ -6273,8 +6273,11 @@
     },
     "movie:68718": {
       "type": "video",
-      "id": "BAACAgEAAxkBAAMUavn25u0NZbnBORvREb_NZmxWfusAApEFAALzrhBGyjK0i5O39ZE9BA",
-      "cap": "🎬 جانغو الحر (2012)"
+      "id": "BAACAgEAAxkBAAIL-WsKCdNQpkqtWtLX_QlPpYYoB8GNAAKRBQAC864QRnMJFr4U3o8rPQQ",
+      "cap": "🎬 جانغو الحر (2012)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1605
     },
     "movie:567": {
       "type": "video",
