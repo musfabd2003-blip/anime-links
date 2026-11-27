@@ -3735,8 +3735,11 @@
     },
     "movie:60307": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIFKWr7bElIcrmUOekbi7-a2OS-ibSgAAI9CgAC8s04UHkOX7T5TDb6PQQ",
-      "cap": "🎬 مذكرات طفل جبان: قواعد رودريك (2011)"
+      "id": "BAACAgQAAxkBAAILV2sKCbMeZoRT5dzeqw4Y5a8E5m0bAAI9CgAC8s04UMbvnlllmEFVPQQ",
+      "cap": "🎬 مذكرات طفل جبان: قواعد رودريك (2011)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1416
     },
     "movie:82650": {
       "type": "video",
