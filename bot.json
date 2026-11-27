@@ -2192,8 +2192,11 @@
     },
     "movie:767": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAICwWr60hCrKwJP9MigT62XmVm82BNWAAIKYAACwsfgSYHAZFKfZ66TPQQ",
-      "cap": "🎬 هاري بوتر والأمير الهجين (2009)"
+      "id": "BAACAgIAAxkBAAIKtWsKCaxMB_CR6a97w8u6yfIc91HsAAIKYAACwsfgSUs3jESNsh6QPQQ",
+      "cap": "🎬 هاري بوتر والأمير الهجين (2009)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1227
     },
     "movie:9615": {
       "type": "video",
