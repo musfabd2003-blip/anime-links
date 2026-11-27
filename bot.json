@@ -9684,8 +9684,11 @@
     },
     "tv:202555:1:2": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIOjmsFWwjpZ0VXV42CfYnq_2k0wspZAAJ4JwACWVLJU7_wDTVYGuKlPQQ",
-      "cap": "🎬 ديرديفل: يولد من جديد · الموسم 1 · الحلقة 2"
+      "id": "BAACAgQAAxkBAAIIwWsJ1MvWGpqKQlbGqgmIDpQh_FkHAAIpGAACkKVIUjLSjyK-vPCWPQQ",
+      "cap": "🎬 ديرديفل: يولد من جديد · الموسم 1 · الحلقة 2",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 990
     },
     "tv:202555:1:3": {
       "type": "video",
