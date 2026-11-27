@@ -6071,8 +6071,11 @@
     },
     "tv:84958:2:1": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIImGr94hDVKs2aGiCcgfUqG__2OT1_AAJrGwACeviAVyO43uJFaz9IPQQ",
-      "cap": "🎬 لوكي · الموسم 2 · الحلقة 1"
+      "id": "BAACAgUAAxkBAAIL12sKCcwMoKtnv4Hyy5dCRMsNsUTAAAJrGwACeviAV5UGdoqeJoTUPQQ",
+      "cap": "🎬 لوكي · الموسم 2 · الحلقة 1",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1566
     },
     "tv:84958:2:2": {
       "type": "video",
