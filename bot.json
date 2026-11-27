@@ -9332,8 +9332,11 @@
     },
     "tv:1398:4:5": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIOJGsE1vl-rDWGm70w5-tfAdK7Ll-kAAJDHgACpnP5UyTAdHwJkqSiPQQ",
-      "cap": "🎬 آل سوبرانو · الموسم 4 · الحلقة 5"
+      "id": "BAACAgQAAxkBAAIIC2sJnv7smMdawTi65VclH-L54v0FAAJDHgACpnP5U0y9PvQsbhOjPQQ",
+      "cap": "🎬 آل سوبرانو · الموسم 4 · الحلقة 5",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 891
     },
     "tv:1398:4:6": {
       "type": "video",
