@@ -1902,8 +1902,11 @@
     },
     "movie:600": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAICVWr6yyc7Yf580BGfx_fKAAG6GaMUkQACwQgAAjaw0VGCpwnyoB-79j0E",
-      "cap": "🎬 Full Metal Jacket (1987)"
+      "id": "BAACAgQAAxkBAAIKLGsJ-Cci3jsRu2ER2nuM8emFzk0cAALBCAACNrDRUaIoiVHd-NLaPQQ",
+      "cap": "🎬 Full Metal Jacket (1987)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1183
     },
     "movie:152532": {
       "type": "video",
