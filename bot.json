@@ -3751,8 +3751,11 @@
     },
     "movie:417830": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIFK2r7bEmeZG1Pdk_nrTrEY82iMFJaAALzBwACr_k4UP6C66AFxYe3PQQ",
-      "cap": "🎬 مذكرات طفل جبان: الرحلة الطويلة (2017)"
+      "id": "BAACAgQAAxkBAAILWWsKCbPjdHthSnFoQ5v1Hbp58PK8AALzBwACr_k4UHBPQteG4xN2PQQ",
+      "cap": "🎬 مذكرات طفل جبان: الرحلة الطويلة (2017)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1418
     },
     "movie:939243": {
       "type": "video",
