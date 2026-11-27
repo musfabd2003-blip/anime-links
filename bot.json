@@ -2070,8 +2070,11 @@
     },
     "movie:22": {
       "type": "video",
-      "id": "BAACAgEAAxkBAAICnmr60HvEQi6emggjajFBarsvtG4iAAJyBgACfKw4R5DIkgRKC0JPPQQ",
-      "cap": "🎬 قراصنة الكاريبي - لعنة اللؤلؤة السوداء (2003)"
+      "id": "BAACAgEAAxkBAAIKQmsJ-CcX9BohD62HQGHktwgyx29-AAJyBgACfKw4RyEmFVaXIN0JPQQ",
+      "cap": "🎬 قراصنة الكاريبي - لعنة اللؤلؤة السوداء (2003)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1212
     },
     "movie:58": {
       "type": "video",
