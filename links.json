@@ -458,7 +458,8 @@
     "tv:260463": "https://t.me/S0Fi_9/1226",
     "tv:196950": "https://t.me/S0Fi_9/1228",
     "tv:290019": "https://t.me/S0Fi_9/1233",
-    "tv:326247": "https://t.me/S0Fi_9/1234"
+    "tv:326247": "https://t.me/S0Fi_9/1234",
+    "tv:305567": "https://t.me/S0Fi_9/1236"
   },
   "telebox": {
     "tv:204519": "https://lbx.to/s/KywYiWD?dirId=3515236",
@@ -658,7 +659,8 @@
     "tv:260463": "https://bxlnk.com/s/nGGINA0?dirId=90967176",
     "tv:196950": "https://bxlnk.com/s/9JFzRfI?dirId=90988071",
     "tv:290019": "https://bxlnk.com/s/iuoGOgI?dirId=91117389",
-    "tv:326247": "https://bxlnk.com/s/7svcNoQ?dirId=91121520"
+    "tv:326247": "https://bxlnk.com/s/7svcNoQ?dirId=91121520",
+    "tv:305567": "https://bxlnk.com/s/lf8GJJg?dirId=91163043"
   },
   "seasons": {
     "tv:88046": ["https://t.me/+w29AVe_lX0EzMzcy","https://t.me/+w29AVe_lX0EzMzcy"],
@@ -1134,7 +1136,8 @@
     "tv:260463": ["https://bxlnk.com/s/nGGINA0?dirId=90967176"],
     "tv:196950": ["https://bxlnk.com/s/9JFzRfI?dirId=90988071"],
     "tv:290019": ["https://bxlnk.com/s/iuoGOgI?dirId=91117389"],
-    "tv:326247": ["https://bxlnk.com/s/7svcNoQ?dirId=91121520"]
+    "tv:326247": ["https://bxlnk.com/s/7svcNoQ?dirId=91121520"],
+    "tv:305567": ["https://bxlnk.com/s/lf8GJJg?dirId=91163043"]
   },
   "added": {
     "tv:324502": "2026-11-13T20:12:00.049Z",
@@ -1151,6 +1154,7 @@
     "tv:260463": "2026-11-22T12:09:45.445Z",
     "tv:196950": "2026-11-22T21:42:15.541Z",
     "tv:290019": "2026-11-26T12:22:48.832Z",
-    "tv:326247": "2026-11-26T16:46:59.262Z"
+    "tv:326247": "2026-11-26T16:46:59.262Z",
+    "tv:305567": "2026-11-27T18:55:48.878Z"
   }
 }
