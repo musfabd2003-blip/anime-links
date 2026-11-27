@@ -2566,8 +2566,11 @@
     },
     "movie:8856": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIDeWr7DcQvA1J8SldmEvgUi4Qrt0cSAALYDgACtVShUXGz1rjWFMWHPQQ",
-      "cap": "🎬 The Karate Kid Part II (1986)"
+      "id": "BAACAgQAAxkBAAIK82sKCazCBGfQWNOOQHjKCl3mTZWXAALYDgACtVShUVk71KoYslPKPQQ",
+      "cap": "🎬 The Karate Kid Part II (1986)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1298
     },
     "movie:10495": {
       "type": "video",
