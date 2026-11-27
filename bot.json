@@ -9436,8 +9436,11 @@
     },
     "tv:1398:5:5": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIOMWsE1vmPhjI9_zqiWjAOEI3O_Gm6AAKAHgACpnP5Uw5yISAV2w-XPQQ",
-      "cap": "🎬 آل سوبرانو · الموسم 5 · الحلقة 5"
+      "id": "BAACAgQAAxkBAAIIGGsJnv42yyx0yUv-lEWUUWtrZM_DAAKAHgACpnP5U_tzP2rUzE5FPQQ",
+      "cap": "🎬 آل سوبرانو · الموسم 5 · الحلقة 5",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 904
     },
     "tv:1398:5:6": {
       "type": "video",
