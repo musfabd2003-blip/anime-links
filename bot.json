@@ -6184,8 +6184,11 @@
     },
     "movie:346": {
       "type": "video",
-      "id": "BAACAgEAAxkBAAIIvGr9-ksNHJU3O2N_NFY62gqyDi0WAAL5AwACI5rpRFzrJ0Bg9dWTPQQ",
-      "cap": "🎬 الساموراي السبعة (1954)"
+      "id": "BAACAgEAAxkBAAIL6msKCdNoyKvh4GzSmy05lW2wQPl9AAL5AwACI5rpRB94Bkofm-75PQQ",
+      "cap": "🎬 الساموراي السبعة (1954)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1584
     },
     "movie:857": {
       "type": "video",
