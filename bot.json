@@ -2230,8 +2230,11 @@
     },
     "movie:259693": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIC_Wr61vyB0HKGgV2wIcvfDxHEy7Y1AAJcCQAC1zpJUSmiXK7L5jMOPQQ",
-      "cap": "🎬 الشعوذة 2 (2016)"
+      "id": "BAACAgQAAxkBAAIKxWsKCazYK66_SBxp6d6fetPz4FdAAAJcCQAC1zpJUYwyBiSBuEOpPQQ",
+      "cap": "🎬 الشعوذة 2 (2016)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1243
     },
     "movie:396422": {
       "type": "video",
