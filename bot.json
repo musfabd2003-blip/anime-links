@@ -2574,8 +2574,11 @@
     },
     "movie:10495": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIDemr7DcQGnzOzIBn0_2DknfE1KSYpAAKICgACJtagURVWwQL0-ftYPQQ",
-      "cap": "🎬 The Karate Kid Part III (1989)"
+      "id": "BAACAgQAAxkBAAIK9GsKCaw6M4mksjpB9fSHRcUIoPVqAAKICgACJtagUeowyKXf5UWTPQQ",
+      "cap": "🎬 The Karate Kid Part III (1989)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1299
     },
     "movie:38575": {
       "type": "video",
