@@ -9060,8 +9060,11 @@
     },
     "tv:1398:1:10": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIN6GsE1TWrcX-DlSiKA5wQ-Ramybq0AALJFAACNB7xUwiruqazgObvPQQ",
-      "cap": "🎬 آل سوبرانو · الموسم 1 · الحلقة 10"
+      "id": "BAACAgQAAxkBAAIH6WsJnv57m-Q8IVhGytyToVbuOfpEAALJFAACNB7xUwABcNeR6cdc6D0E",
+      "cap": "🎬 آل سوبرانو · الموسم 1 · الحلقة 10",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 850
     },
     "tv:1398:1:11": {
       "type": "video",
