@@ -9644,8 +9644,11 @@
     },
     "tv:1398:6:18": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIOS2sE1vl7_3phTnE6bbjrXsxkYzhEAAL8HgACpnP5U05UHTql8jKyPQQ",
-      "cap": "🎬 آل سوبرانو · الموسم 6 · الحلقة 18"
+      "id": "BAACAgQAAxkBAAIIlWsJ1Mtbcvfd7UqBj4axdUBZBDHbAAL8HgACpnP5U1T2uRVPvufJPQQ",
+      "cap": "🎬 آل سوبرانو · الموسم 6 · الحلقة 18",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 930
     },
     "tv:1398:6:19": {
       "type": "video",
