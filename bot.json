@@ -8786,8 +8786,11 @@
     },
     "tv:1405:9:2": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINm2sCzxL7nxT9fwU9BFyJtkDq-4KAAAIFDAACBoaRUDmkp2rGJav1PQQ",
-      "cap": "🎬 دكستر · الموسم 9 · الحلقة 2"
+      "id": "BAACAgQAAxkBAAIHZGsJmOWVk48c-bFxCNeffJpF5tvjAAIFDAACBoaRUK-iQQmuE877PQQ",
+      "cap": "🎬 دكستر · الموسم 9 · الحلقة 2",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 747
     },
     "tv:1405:9:3": {
       "type": "video",
