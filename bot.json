@@ -4056,8 +4056,11 @@
     },
     "tv:1402:2:5": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIGtmr8M1i30bZ56OJD07gCXrFmHuRlAAKFAgACMEKxVUX1QS_nkoBGPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 2 · الحلقة 5"
+      "id": "BAACAgUAAxkBAAIHoWsJnXf2-N6zDShtu4p83qKZzSgWAAKFAgACMEKxVcCcNKtZomF8PQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 2 · الحلقة 5",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 783
     },
     "tv:1402:2:6": {
       "type": "video",
