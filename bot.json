@@ -3618,8 +3618,11 @@
     },
     "movie:388192": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIFAAFq-2fzneOnC0HrXFXbFF5zc7QXnwAC2gMAAg2MiEh8OXLiau1nQj0E",
-      "cap": "🎬 سِـجّـين 2 (2015)"
+      "id": "BAACAgIAAxkBAAILR2sKCbM8BPLZtlCJ1Tmw7hMkpkqNAALaAwACDYyISKvqTC9k3vWbPQQ",
+      "cap": "🎬 سِـجّـين 2 (2015)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1402
     },
     "movie:414827": {
       "type": "video",
