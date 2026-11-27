@@ -4192,8 +4192,11 @@
     },
     "tv:1402:11:22": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIGSGr8KM_DrRSdmLoF_pWux8aiCruvAAJLBwAC7Mb5Vq7Yfwsymf_SPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 11 · الحلقة 22"
+      "id": "BAACAgUAAxkBAAIJb2sJ4tZEsDJqb4l2Uj8UYsKCto5-AAJLBwAC7Mb5VuJdNtV1hVA1PQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 11 · الحلقة 22",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1098
     },
     "tv:1402:11:23": {
       "type": "video",
