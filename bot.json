@@ -5898,8 +5898,11 @@
     },
     "movie:505642": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIIMGr9kU61kYgAARpTJsm_sRgxw7otXgACglkAAlE8mVTllTmplNj7Tj0E",
-      "cap": "🎬 بلاك بانثر: واكاندا إلى الأبد (2022)"
+      "id": "BAACAgUAAxkBAAILwGsKCcyhQ1zQzBlaRBvaDDykzY2-AAKCWQACUTyZVGbgeYF7mjkiPQQ",
+      "cap": "🎬 بلاك بانثر: واكاندا إلى الأبد (2022)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1543
     },
     "movie:299537": {
       "type": "video",
