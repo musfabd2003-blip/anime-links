@@ -8202,8 +8202,11 @@
     },
     "tv:1405:3:1": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINCmsCvut0DiliKJlaecSbA_b5WZQ4AAKECgACbbWIUhlijsE1yLjePQQ",
-      "cap": "🎬 دكستر · الموسم 3 · الحلقة 1"
+      "id": "BAACAgQAAxkBAAIGt2sJiMIFi1RTKPcCcLugeYKiI8pdAAKECgACbbWIUqRA5rIu-ciTPQQ",
+      "cap": "🎬 دكستر · الموسم 3 · الحلقة 1",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 655
     },
     "tv:1405:3:2": {
       "type": "video",
