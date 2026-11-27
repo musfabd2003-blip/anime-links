@@ -1732,8 +1732,11 @@
     },
     "movie:1214931": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAICM2r6xy7qpFtJAAHZx3aift0fLOqafwACLo8AAgPDYUrfH237Z3Vm7T0E",
-      "cap": "🎬 Nuremberg (2025)"
+      "id": "BAACAgIAAxkBAAIKE2sJ-CcrCPL_M5gvPDm4B_SnA2rEAAIujwACA8NhStNPl8kVoX4QPQQ",
+      "cap": "🎬 Nuremberg (2025)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1144
     },
     "movie:731436": {
       "type": "video",
