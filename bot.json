@@ -6171,8 +6171,11 @@
     },
     "movie:510": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIBUGr6J88mqSxPD6ggyggYwyqfeXYKAAK1cgACvMngS1BisrB4aequPQQ",
-      "cap": "🎬 أحدهم طار فوق عش الوقواق (1975)"
+      "id": "BAACAgIAAxkBAAIL6GsKCdNhHW-jQ3CLQ_XEffSviecPAAK1cgACvMngS8kaxyXvt5QKPQQ",
+      "cap": "🎬 أحدهم طار فوق عش الوقواق (1975)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1582
     },
     "movie:1483708": {
       "type": "video",
