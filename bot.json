@@ -6147,8 +6147,11 @@
     },
     "movie:1891": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIIt2r9-ku4MkwqOTUGM-rDl_Qw44MMAAL4DAAC202QU0J5o8a2DdAgPQQ",
-      "cap": "🎬 حرب النجوم : الإمبراطورية تضرب من جديد (1980)"
+      "id": "BAACAgQAAxkBAAIL5WsKCdPZnLHxfzvc7nCxVV1X3nRuAAL4DAAC202QUzsFGsGJZDT7PQQ",
+      "cap": "🎬 حرب النجوم : الإمبراطورية تضرب من جديد (1980)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1579
     },
     "movie:769": {
       "type": "video",
