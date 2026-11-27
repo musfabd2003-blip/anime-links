@@ -1567,8 +1567,11 @@
     },
     "movie:1955": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAICAmr6vlvKOKFLJCYveV_0aaWosGrHAALVCgACP0KpUIJeq8LcvEwNPQQ",
-      "cap": "🎬 الرجل الفيل (1980)"
+      "id": "BAACAgQAAxkBAAIJ_msJ-CcF-G9Rz7CbfQYbRdOQuSBhAALVCgACP0KpUFRbspuc7uiaPQQ",
+      "cap": "🎬 الرجل الفيل (1980)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1123
     },
     "movie:11322": {
       "type": "video",
