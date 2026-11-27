@@ -4093,8 +4093,11 @@
     },
     "tv:1402:10:20": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIGMGr8KM8EfwAByAxwMYGj7gyVtUyu5wACgAIAAu4QyFZ8Hd1y7i5wkT0E",
-      "cap": "🎬 الموتى السائرون · الموسم 10 · الحلقة 20"
+      "id": "BAACAgUAAxkBAAIJV2sJ4tY3r4JtYimjfDEY9_u4s02-AAKAAgAC7hDIVv3epu-F-8lvPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 10 · الحلقة 20",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1090
     },
     "tv:1402:10:21": {
       "type": "video",
