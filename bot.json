@@ -8410,8 +8410,11 @@
     },
     "tv:1405:5:3": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINPGsCy31MkWbgzpHIePSCHo9R74DOAAKIBwACDxCYUgKyW5eavFNhPQQ",
-      "cap": "🎬 دكستر · الموسم 5 · الحلقة 3"
+      "id": "BAACAgQAAxkBAAIG0WsJiMI7TMC2aqoJ0hf0Sau6FxmYAAKIBwACDxCYUqtcpEupVgwcPQQ",
+      "cap": "🎬 دكستر · الموسم 5 · الحلقة 3",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 681
     },
     "tv:1405:5:4": {
       "type": "video",
