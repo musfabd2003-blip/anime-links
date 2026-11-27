@@ -8818,8 +8818,11 @@
     },
     "tv:1405:9:6": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINn2sCzxJVFmGYDVtBkdRMyt9esM7RAAK_CgAC5gKwUb25VyWMY35PPQQ",
-      "cap": "🎬 دكستر · الموسم 9 · الحلقة 6"
+      "id": "BAACAgQAAxkBAAIHaGsJmOX9tgEHZGn9wZtx9vqnjqmWAAK_CgAC5gKwUXDT4bl52RSYPQQ",
+      "cap": "🎬 دكستر · الموسم 9 · الحلقة 6",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 758
     },
     "tv:1405:9:7": {
       "type": "video",
