@@ -8114,8 +8114,11 @@
     },
     "movie:436969": {
       "type": "video",
-      "id": "BAACAgEAAxkBAAIM3WsBYMG0znkn8Yv3Q_SC5XVce0ngAAIoAgAC1OrYRD0eZrhI622vPQQ",
-      "cap": "🎬 فرقة الإنتحار (2021)"
+      "id": "BAACAgEAAxkBAAIGrGsJiMJrAjCJZqc1fBD19B9G7ugqAAIoAgAC1OrYRByHMHLxzsttPQQ",
+      "cap": "🎬 فرقة الإنتحار (2021)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 644
     },
     "movie:710417": {
       "type": "video",
