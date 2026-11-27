@@ -2278,8 +2278,11 @@
     },
     "movie:1366": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIDDmr615wPa3yWTHIEDx_5e0Ay2QsuAALICQAC9ISpUpgKXvwZsYJuPQQ",
-      "cap": "🎬 روكي (1976)"
+      "id": "BAACAgQAAxkBAAIKy2sKCayN9eLM7Fi3-vmUKEMyr0qrAALICQAC9ISpUqyF0msk2eRQPQQ",
+      "cap": "🎬 روكي (1976)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1259
     },
     "movie:1367": {
       "type": "video",
