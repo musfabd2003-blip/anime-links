@@ -8730,8 +8730,11 @@
     },
     "tv:1405:8:7": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINiGsCzn_9EBG62wAByeOapPujdGCCIwACuwcAAg8QmFKg9P5zKs8fCD0E",
-      "cap": "🎬 دكستر · الموسم 8 · الحلقة 7"
+      "id": "BAACAgQAAxkBAAIHXWsJmOVU_PkybpabPgSCEz-G-EipAAK7BwACDxCYUifLp9yqUJOJPQQ",
+      "cap": "🎬 دكستر · الموسم 8 · الحلقة 7",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 740
     },
     "tv:1405:8:8": {
       "type": "video",
