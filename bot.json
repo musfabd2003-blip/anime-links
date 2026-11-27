@@ -6257,8 +6257,11 @@
     },
     "movie:77338": {
       "type": "video",
-      "id": "BAACAgEAAxkBAAIIyWr9-kvC-GPMpstbcvRJLz26P5HtAAK6AQACrwXQR3cH21EAASZ7dj0E",
-      "cap": "🎬 المنبوذون (2011)"
+      "id": "BAACAgEAAxkBAAIL92sKCdOipweDqlLuyvyWRS-caQ3nAAK6AQACrwXQR2SFOITAptnVPQQ",
+      "cap": "🎬 المنبوذون (2011)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1601
     },
     "movie:348": {
       "type": "video",
