@@ -4287,8 +4287,11 @@
     },
     "tv:76479:5:2": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIFwmr8ISjcAVcN2ZEq7TDWip45NFmcAALkHQACysqwUlQIykZOY5PrPQQ",
-      "cap": "🎬 الرفاق · الموسم 5 · الحلقة 2"
+      "id": "BAACAgQAAxkBAAILlWsKCczPNWLlqGWmLwXgXgqt3wEcAALkHQACysqwUvNAIGmBcI65PQQ",
+      "cap": "🎬 الرفاق · الموسم 5 · الحلقة 2",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1493
     },
     "tv:76479:5:3": {
       "type": "video",
