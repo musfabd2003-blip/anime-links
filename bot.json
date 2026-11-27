@@ -4077,8 +4077,11 @@
     },
     "tv:1402:10:18": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIGLmr8KM_1Rc0oj-RGuZL8mAl7xh3RAAI6AgACDugRVu_HMDyyBhNKPQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 10 · الحلقة 18"
+      "id": "BAACAgUAAxkBAAIJVWsJ4tYU1Z0NrnNpvMYep52pdvsIAAI6AgACDugRVvk3TUPpwVIUPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 10 · الحلقة 18",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1088
     },
     "tv:1402:10:19": {
       "type": "video",
