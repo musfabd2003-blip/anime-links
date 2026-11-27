@@ -4191,8 +4191,11 @@
     },
     "tv:76479:3:6": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIFtmr8ISjlVMchNVr9gs-z6wABHHdmGQACjgwAAsahsFH0r4UE16A8TD0E",
-      "cap": "🎬 الرفاق · الموسم 3 · الحلقة 6"
+      "id": "BAACAgQAAxkBAAILiWsKCcyLLRNQ5hfNzDdofhgEnAGZAAKODAACxqGwUWc6Vi3vmmPGPQQ",
+      "cap": "🎬 الرفاق · الموسم 3 · الحلقة 6",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1474
     },
     "tv:76479:3:7": {
       "type": "video",
