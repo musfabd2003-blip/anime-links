@@ -2558,8 +2558,11 @@
     },
     "movie:1885": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIDeGr7DcQIzgUb5lCC6GVsTPTxnSBpAAIWCgACSXiJUQe11S6QXyvVPQQ",
-      "cap": "🎬 The Karate Kid (1984)"
+      "id": "BAACAgQAAxkBAAIK8msKCaz8ASIqQ2bmsFQN5cA-WRTQAAIWCgACSXiJUX6CN4xAw9F7PQQ",
+      "cap": "🎬 The Karate Kid (1984)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1297
     },
     "movie:8856": {
       "type": "video",
