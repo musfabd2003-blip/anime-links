@@ -2606,8 +2606,11 @@
     },
     "movie:24021": {
       "type": "video",
-      "id": "BAACAgIAAxkBAAIDh2r7D5b546-FMa9H16ALUPpphGPVAAJXfQAC4-5ASmxw6YNwn3P6PQQ",
-      "cap": "🎬 ملحمة الشفق: خسوف (2010)"
+      "id": "BAACAgIAAxkBAAIK-GsKCazJ7EiMUOz1RRZJAAFRImH7aQACV30AAuPuQEpy6N_4-WMWDD0E",
+      "cap": "🎬 ملحمة الشفق: خسوف (2010)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1303
     },
     "movie:50619": {
       "type": "video",
