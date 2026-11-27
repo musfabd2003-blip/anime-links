@@ -7977,8 +7977,11 @@
     },
     "tv:1438:5:6": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIMp2sBXZeBLMhdmCWn3Ko8BP0QFTQcAALYHwACoQE5US_kcY_nhYtGPQQ",
-      "cap": "🎬 السلك · الموسم 5 · الحلقة 6"
+      "id": "BAACAgQAAxkBAAIGCGsIMFdZCpj6csJF5qva1If1plJAAALYHwACoQE5UZgBW_7N0qluPQQ",
+      "cap": "🎬 السلك · الموسم 5 · الحلقة 6",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 622
     },
     "tv:1438:5:7": {
       "type": "video",
