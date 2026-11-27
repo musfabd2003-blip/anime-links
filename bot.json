@@ -8570,8 +8570,11 @@
     },
     "tv:1405:6:11": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINXGsCzLhk8k6LxmvveB1nFmNflSPYAAKnBwACDxCYUl_wqXBpSmP8PQQ",
-      "cap": "🎬 دكستر · الموسم 6 · الحلقة 11"
+      "id": "BAACAgQAAxkBAAIG5WsJiMKwgLKZx4ABnCsdy8d7f-jnAAKnBwACDxCYUsJr9IJrJMUCPQQ",
+      "cap": "🎬 دكستر · الموسم 6 · الحلقة 11",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 713
     },
     "tv:1405:6:12": {
       "type": "video",
