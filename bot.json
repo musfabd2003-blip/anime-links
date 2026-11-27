@@ -4005,8 +4005,11 @@
     },
     "tv:1402:10:9": {
       "type": "video",
-      "id": "BAACAgUAAxkBAAIGJWr8KM8VqLxrD8C3xofuP2TE08WrAAKzAQACaIPpVRlRCj8TXYB8PQQ",
-      "cap": "🎬 الموتى السائرون · الموسم 10 · الحلقة 9"
+      "id": "BAACAgUAAxkBAAIJTGsJ4tYNQBbXov-Cbm8hcH0c4dPFAAKzAQACaIPpVVIr8jlklWRLPQQ",
+      "cap": "🎬 الموتى السائرون · الموسم 10 · الحلقة 9",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1072
     },
     "tv:1402:10:10": {
       "type": "video",
