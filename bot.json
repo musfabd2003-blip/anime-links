@@ -1724,8 +1724,11 @@
     },
     "movie:1306368": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAICMmr6xy4JGEkeYdlDTQcCyCNNjXO0AAJeFwAC2LBQUxDGW6cwS_f3PQQ",
-      "cap": "🎬 ليلة القبض على المال والثقة (2026)"
+      "id": "BAACAgQAAxkBAAIKEmsJ-CfuXa-RawyQqNsS3pvUmHhBAAJeFwAC2LBQUwJ6l4TL7-LhPQQ",
+      "cap": "🎬 ليلة القبض على المال والثقة (2026)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1143
     },
     "movie:1214931": {
       "type": "video",
