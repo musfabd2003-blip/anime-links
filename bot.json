@@ -3594,8 +3594,11 @@
     },
     "movie:475557": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIE9Gr7ZtlY2RZQxIYDyU7JSWTwgiRbAAKKDAAC-sogUu3yPtQPf4NBPQQ",
-      "cap": "🎬 جوكر (2019)"
+      "id": "BAACAgQAAxkBAAILRGsKCbP7sCp5q7ekbv61iklA_iDEAAKKDAAC-sogUhulgcUJliTVPQQ",
+      "cap": "🎬 جوكر (2019)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1399
     },
     "movie:889737": {
       "type": "video",
