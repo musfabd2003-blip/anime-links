@@ -1730,8 +1730,11 @@
     },
     "movie:1168190": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINr2sCz_tww6Co2t-7gpTSJO6_kArNAAIlMAACXQPZU9JuPC_Dmg5FPQQ",
-      "cap": "🎬 طاقم التدمير (2026)"
+      "id": "BAACAgQAAxkBAAIHbmsJmOX_vFu1CC9vfvnipUh5u8eyAAIlMAACXQPZUwMJCbbV71E6PQQ",
+      "cap": "🎬 طاقم التدمير (2026)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 764
     },
     "movie:4935": {
       "type": "video",
