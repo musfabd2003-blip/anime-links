@@ -8506,8 +8506,11 @@
     },
     "tv:1405:6:3": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINVGsCzLg7NJCKvxtu7IafaE9_ozKXAAKfBwACDxCYUvyhEyAAAbgxcj0E",
-      "cap": "🎬 دكستر · الموسم 6 · الحلقة 3"
+      "id": "BAACAgQAAxkBAAIG3WsJiMLDxKNwPnE3MxE8MXE2sKtrAAKfBwACDxCYUmgoYAfmWNYEPQQ",
+      "cap": "🎬 دكستر · الموسم 6 · الحلقة 3",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 705
     },
     "tv:1405:6:4": {
       "type": "video",
