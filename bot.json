@@ -2526,8 +2526,11 @@
     },
     "movie:348893": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIDW2r65f329Bx5pOMCt_YkZrs4qUt0AAJhCgACGQToU40fxbCzp8psPQQ",
-      "cap": "🎬 بويكا: بلا منازع (2016)"
+      "id": "BAACAgQAAxkBAAIK62sKCazWrR9FP6UjezC7mr65Z5ydAAJhCgACGQToU_SjEU_O18srPQQ",
+      "cap": "🎬 بويكا: بلا منازع (2016)",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1291
     },
     "movie:157350": {
       "type": "video",
