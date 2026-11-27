@@ -8802,8 +8802,11 @@
     },
     "tv:1405:9:4": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINnWsCzxIYI7xV_9WfqZQdz4RHEDZYAAJtCwAC6fEhUXBnQ3WNh6Z-PQQ",
-      "cap": "🎬 دكستر · الموسم 9 · الحلقة 4"
+      "id": "BAACAgQAAxkBAAIHZmsJmOX34UDBeSSTyZVHH-DuhKLsAAJtCwAC6fEhUYD0vQUHhsUrPQQ",
+      "cap": "🎬 دكستر · الموسم 9 · الحلقة 4",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 749
     },
     "tv:1405:9:5": {
       "type": "video",
