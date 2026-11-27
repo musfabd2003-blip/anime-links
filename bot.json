@@ -3427,8 +3427,11 @@
     },
     "tv:44217:6:20": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIEjWr7IPp-u5vojviNLYHAeT6AGQQ2AAL7EwACW2A4URW1eLvULgdOPQQ",
-      "cap": "🎬 الفايكنج · الموسم 6 · الحلقة 20"
+      "id": "BAACAgQAAxkBAAILMGsKCbMAAURfyDj5Rhvi8JfWzb4n2wAC-xMAAltgOFGhrkEAAQcWJbg9BA",
+      "cap": "🎬 الفايكنج · الموسم 6 · الحلقة 20",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1371
     },
     "tv:44217:5:2": {
       "type": "video",
