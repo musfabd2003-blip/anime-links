@@ -8474,8 +8474,11 @@
     },
     "tv:1405:5:11": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAINRGsCy31_bWiTeQUp6LW7nYOcTugIAAKbBwACDxCYUvNT90P0t47VPQQ",
-      "cap": "🎬 دكستر · الموسم 5 · الحلقة 11"
+      "id": "BAACAgQAAxkBAAIG2WsJiMIolS_2v5N-LxGPIUzCR3ndAAKbBwACDxCYUlOF7F_Gn491PQQ",
+      "cap": "🎬 دكستر · الموسم 5 · الحلقة 11",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 692
     },
     "tv:1405:5:12": {
       "type": "video",
