@@ -5631,8 +5631,11 @@
     },
     "tv:194583:3:2": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIHiGr8p7aqeJ17zuJsO68MHBMOUC6fAAIMIgAC70SBU0JSaKWIHNZXPQQ",
-      "cap": "🎬 الموتى السائرون: المدينة الميتة · الموسم 3 · الحلقة 2"
+      "id": "BAACAgQAAxkBAAIOwGsKjVKIGYI0YY33DmLrMwLAd7ROAAIMIgAC70SBU_jWaqlPMsbfPQQ",
+      "cap": "🎬 الموتى السائرون: المدينة الميتة · الموسم 3 · الحلقة 2",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1818
     },
     "tv:194583:3:3": {
       "type": "video",
