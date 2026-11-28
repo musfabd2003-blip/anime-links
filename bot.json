@@ -5527,8 +5527,11 @@
     },
     "tv:194583:1:2": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIHemr8p7Z2xmk31NRa3eRynAmQWf-iAALwHQACU4d5UiBEC6s5QOWDPQQ",
-      "cap": "🎬 الموتى السائرون: المدينة الميتة · الموسم 1 · الحلقة 2"
+      "id": "BAACAgQAAxkBAAIOpWsKjP6kZnmTrfnNOJiSUrhmHlIgAALwHQACU4d5UuyCfhbr7XiEPQQ",
+      "cap": "🎬 الموتى السائرون: المدينة الميتة · الموسم 1 · الحلقة 2",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1804
     },
     "tv:194583:1:3": {
       "type": "video",
