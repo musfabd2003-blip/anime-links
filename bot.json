@@ -5682,8 +5682,11 @@
     },
     "tv:206586:1:4": {
       "type": "video",
-      "id": "BAACAgQAAxkBAAIHjmr8p7aA5AdMsHHCCCEdSHA_9bZ6AAIBFwACEn65UwTpEpoWjoIPPQQ",
-      "cap": "🎬 الموتى السائرون: أولئك الذين عاشوا · الموسم 1 · الحلقة 4"
+      "id": "BAACAgQAAxkBAAIOzGsKjZ9ZVaZof-fHMGXIQB1ZfNRSAAIBFwACEn65U6YLYTCy4u9_PQQ",
+      "cap": "🎬 الموتى السائرون: أولئك الذين عاشوا · الموسم 1 · الحلقة 4",
+      "bid": "9125487635",
+      "ch": "-1005773004173",
+      "mid": 1825
     },
     "tv:206586:1:5": {
       "type": "video",
